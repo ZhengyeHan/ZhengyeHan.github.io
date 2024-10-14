@@ -38,27 +38,7 @@ My research focuses on the intersection of game theory and machine learning, wit
 
 
 ## Internship
-
-<table class="internship-table">
-  <thead>
-    <tr>
-      <th>Company Name</th>
-      <th>Main Work Keywords</th>
-      <th>Time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="alibaba_logo.png" alt="Alibaba Logo" class="company-logo">
-        Alibaba
-      </td>
-      <td>Reinforcement Learning, Auto-bidding Algorithm</td>
-      <td>10.12.2021 - 10.12.2022</td>
-    </tr>
-    <!-- 在这里添加更多的实习经历 -->
-  </tbody>
-</table>
+* Democratization of AI
 
 ## public welfare
 * Democratization of AI
