@@ -23,7 +23,7 @@ My research focuses on the intersection of game theory and machine learning, wit
 <div class="project">
   <img src="/assets/images/project1.jpg" alt="Project 1" class="project-image">
   <div class="project-info">
-    <h2><a href="https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8">Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
+    <h2><a href="[https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8](https://h5case6.xiaoxxx.cn/202406/NeurlIPS/dist/index.html#/?lang=en_us)">Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
     <p>Organizing Team Member. In NeurIPS 2024 Competition Track.</p>
   </div>
 </div>
