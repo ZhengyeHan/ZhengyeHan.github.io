@@ -26,11 +26,14 @@ My research focuses on the intersection of game theory and machine learning, wit
       NeurIPS 2024 Competition Track: "Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games."
     </a>
   </h2>
+  <br>
   <div class="project-info">
     <img src="/images/project1.jpg" alt="Project 1" class="project-image">
   </div>
+  <br>
   <p>As an Organizing Team Member, I collaborated with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://www.linkedin.com/in/yeshu-li-a49a98111/?originalSubdomain=cn">Yeshu Li</a> to develop the agents for the competition system.</p>
 </div>
+
 
 
 <div class="project">
