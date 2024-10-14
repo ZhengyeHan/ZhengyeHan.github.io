@@ -14,7 +14,7 @@ During my undergraduate studies, I had the privilege to join the Center on Front
 
 ### Research Interests
 
-My research focuses on the intersection of algorithmic game theory and machine learning, with a particular emphasis on the following topics:
+My research focuses on the intersection of game theory and machine learning, with a particular emphasis on the following topics:
 * Reinforcement Learning. Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
 * Deep learning. Including computer vision and its applications combined with reinforcement learning.
 * Game theory. With a focus on multi-agent scenarios.
