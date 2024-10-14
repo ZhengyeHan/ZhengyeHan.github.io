@@ -445,6 +445,14 @@
   object-fit: cover; /* 图片按比例填充，避免变形 */
 }
 
+/* 针对特定项目图片的样式调整 */
+.project-image-small {
+  max-width: 50%; /* 将图片最大宽度调整为父容器宽度的50% */
+  height: auto;   /* 保持图片的宽高比例 */
+  display: block;
+  margin: 0 auto; /* 居中显示图片 */
+}
+
 /* 项目描述样式 */
 .project p {
   font-size: 16px;
