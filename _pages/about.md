@@ -34,7 +34,7 @@ My research focuses on the intersection of game theory and machine learning, wit
   <div class="project-images">
     <img src="/images/project2.jpg" alt="Project 2 Image" class="project-image">
   </div>
-  <p>By Zhengye Han, et al.</p>
+   <p>This project was a collaboration with the School of Civil Engineering, where we applied deep learning (DL) for image recognition and reinforcement learning (RL) for intelligent optimization. The platform addresses challenges in muck detection and improvement, leading to the creation of a fully functional machine prototype. Our work resulted in a national invention patent and three software copyrights.</p>
 </div>
 
 
