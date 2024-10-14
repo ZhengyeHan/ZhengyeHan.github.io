@@ -403,38 +403,32 @@
 /* 我的添加 */
 
 .project {
-  display: flex;
-  align-items: flex-start;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.project h2 {
+  font-size: 24px;
   margin-bottom: 20px;
 }
 
-.project-image {
-  width: 150px;
-  height: auto;
-  margin-right: 20px;
-  border-radius: 8px;
-}
-
-.project-info {
-  flex: 1;
-}
-
-.project-info h2 {
-  margin-top: 0;
-  font-size: 24px;
-}
-
-.project-info h2 a {
+.project h2 a {
   text-decoration: none;
   color: #333;
 }
 
-.project-info h2 a:hover {
+.project h2 a:hover {
   color: #007acc;
 }
 
- .project-info p {
-  margin-top: 10px;
+.project-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.project p {
   font-size: 16px;
   color: #666;
 }
