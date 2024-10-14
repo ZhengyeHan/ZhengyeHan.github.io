@@ -26,7 +26,7 @@ My research focuses on the intersection of game theory and machine learning, wit
   <div class="project-images">
     <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
   </div>
-  <p>As the competition organizing team member, I collaborated with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://www.linkedin.com/in/yeshu-li-a49a98111/?originalSubdomain=cn">Yeshu Li</a> to develop the agents for the competition system.</p>
+ <p>This competition was hosted by the Pku-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. In addition, I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://www.linkedin.com/in/yeshu-li-a49a98111/?originalSubdomain=cn">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions under uncertainty.</p>
 </div>
 
 <div class="project">
