@@ -20,18 +20,18 @@ My research focuses on the intersection of game theory and machine learning, wit
 * Game theory. With a focus on multi-agent scenarios.
 
 ## Project
-
 <div class="project">
-  <h2><a href="https://tianchi.aliyun.com/competition/entrance/532226">Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
-  <img src="/assets/images/project1.jpg" alt="Auto-Bidding in Large-Scale Auctions" class="project-image">
+  <h2><a href="https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8">Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
+  <img src="/assets/images/project1.jpg" alt="Project 1" class="project-image">
   <p>Organizing Team Member. In NeurIPS 2024 Competition Track.</p>
 </div>
 
 <div class="project">
   <h2><a href="link_to_project2_page">Intelligent Recognition and Detection Platform for Muck</a></h2>
-  <img src="/assets/images/project2.jpg" alt="Intelligent Recognition and Detection Platform for Muck" class="project-image">
+  <img src="/assets/images/project2.jpg" alt="Project 2" class="project-image">
   <p>By Zhengye Han, et al.</p>
 </div>
+
 
 ## Internship
 * 1
