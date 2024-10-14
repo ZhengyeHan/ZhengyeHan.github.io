@@ -430,11 +430,10 @@
 
 /* 项目图片容器样式 */
 .project-images {
-  display: flex;
-  flex-wrap: wrap; /* 允许多行显示 */
-  justify-content: center; /* 居中对齐 */
-  margin-top: 10px;
-  margin-bottom: 10px;
+  display: flex;  /* 使用Flexbox布局，使图片在一行显示 */
+  flex-wrap: nowrap;  /* 确保图片不换行 */
+  justify-content: center;  /* 图片居中对齐 */
+  gap: 10px;  /* 图片之间的间距 */
 }
 
 /* 项目图片样式 */
