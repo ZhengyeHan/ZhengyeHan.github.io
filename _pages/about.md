@@ -33,7 +33,6 @@ My research focuses on the intersection of game theory and machine learning, wit
   <h2><a href="link_to_project2_page">Intelligent Recognition and Detection Platform for Muck</a></h2>
   <div class="project-images">
     <img src="/images/project2.jpg" alt="Project 2 Image" class="project-image">
-    <img src="/images/project2_additional.jpg" alt="Project 2 Additional Image" class="project-image">
   </div>
   <p>By Zhengye Han, et al.</p>
 </div>
