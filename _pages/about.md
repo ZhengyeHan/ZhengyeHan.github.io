@@ -54,7 +54,31 @@ My research focuses on the intersection of game theory and machine learning, wit
         Alibaba
       </td>
       <td>Reinforcement Learning, Auto-bidding Algorithm</td>
-      <td>10.12.2021 - 10.12.2022</td>
+      <td>03/28/2024 - present</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/assets/images/companies/pku_logo.png" alt="pku Logo" class="company-logo">
+        Center on Frontiers of Computing Studies at Peking University
+      </td>
+      <td>machine learning and game theory</td>
+      <td>02/20/2023 - present</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/assets/images/companies/meituan_logo.png" alt="meituan Logo" class="company-logo">
+        meituan
+      </td>
+      <td>LLM for recruitment department</td>
+      <td>10/17/2023 - 1/27/2024</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/assets/images/companies/BOC_logo.png" alt="BOC Logo" class="company-logo">
+        BOC International (China) Co., Ltd
+      </td>
+      <td>Quantization strategy、industry research</td>
+      <td>06/06/2022 - 04/18/2023</td>
     </tr>
     <!-- 在这里添加更多的实习经历 -->
   </tbody>
