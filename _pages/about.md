@@ -63,13 +63,13 @@ I have extensive experience applying machine learning techniques in both academi
         <img src="/images/pku_logo.png" alt="pku Logo" class="company-logo">
         Center on Frontiers of Computing Studies at Peking University
       </td>
-      <td>machine learning and game theory</td>
+      <td>Machine learning and game theory</td>
       <td>02/20/2023 - present</td>
     </tr>
     <tr>
       <td>
         <img src="/images/meituan_logo.png" alt="meituan Logo" class="company-logo">
-        meituan
+        Meituan
       </td>
       <td>LLM for recruitment department</td>
       <td>10/17/2023 - 1/27/2024</td>
