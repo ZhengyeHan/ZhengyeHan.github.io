@@ -405,36 +405,50 @@
   align-items: flex-start;
   margin-bottom: 20px;
 }
-
-.project-image {
-  width: 150px;
-  height: auto;
-  margin-right: 20px;
-  border-radius: 8px;
+/* 项目整体样式 */
+.project {
+  margin-bottom: 40px; /* 增加下边距，分隔各个项目 */
 }
 
-.project-info {
-  flex: 1;
-}
-
-.project-info h2 {
+/* 项目标题样式 */
+.project h2 {
   margin-top: 0;
   font-size: 24px;
+  text-align: center; /* 居中显示标题 */
 }
 
-.project-info h2 a {
+.project h2 a {
   text-decoration: none;
   color: #333;
 }
 
-.project-info h2 a:hover {
+.project h2 a:hover {
   color: #007acc;
 }
 
-.project-info p {
+/* 项目图片容器样式 */
+.project-images {
+  display: flex;
+  flex-wrap: wrap; /* 允许多行显示 */
+  justify-content: center; /* 居中对齐 */
   margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* 项目图片样式 */
+.project-image {
+  flex: 1 1 300px; /* 每个图片的最小宽度为300px，可根据需要调整 */
+  max-width: 45%; /* 图片最大宽度为容器的45%，可同时显示两张图片 */
+  margin: 5px;
+  border-radius: 8px;
+  object-fit: cover; /* 图片按比例填充，避免变形 */
+}
+
+/* 项目描述样式 */
+.project p {
   font-size: 16px;
   color: #666;
+  text-align: center; /* 居中显示描述 */
 }
 
 /* 自定义实习表格样式 */
