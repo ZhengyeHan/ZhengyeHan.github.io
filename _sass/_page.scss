@@ -464,18 +464,20 @@
 .internship-table {
   width: 100%;
   border-collapse: collapse;
-  margin-bottom: 20px;
+  margin-bottom: 30px;  /* 增大下边距 */
+  font-size: 18px;  /* 增加表格字体大小 */
 }
 
 .internship-table th,
 .internship-table td {
   border: 1px solid #ddd;
-  padding: 8px;
-  text-align: left;
+  padding: 16px;  /* 增加单元格的填充 */
+  text-align: center;  /* 居中对齐 */
 }
 
 .internship-table th {
   background-color: #f2f2f2;
+  font-size: 20px;  /* 增大表头的字体 */
 }
 
 .internship-table tr:nth-child(even) {
@@ -483,12 +485,24 @@
 }
 
 .internship-table tr:hover {
-  background-color: #ddd;
+  background-color: #eee;  /* 调整悬停时的颜色 */
 }
 
+/* 修改后的公司 Logo 样式 */
 .company-logo {
-  width: 20px;
+  width: 80px;  /* 增大Logo的宽度 */
   height: auto;
-  vertical-align: middle;
-  margin-right: 5px;
+  display: block;  /* 使Logo成为块级元素，自动换行 */
+  margin: 0 auto 10px;  /* 上下居中对齐，并增加底部间距 */
 }
+
+/* 使表格中的公司名称和Logo居中 */
+.internship-table td {
+  vertical-align: top;
+  text-align: center;  /* 将公司名称和内容居中对齐 */
+}
+
+.internship-table td img + br {
+  display: none;  /* 删除多余的换行符 */
+}
+
