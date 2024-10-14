@@ -21,9 +21,9 @@ My research focuses on the intersection of game theory and machine learning, wit
 
 ## Project
 <div class="project">
-  <img src="/images/project1.jpg" alt="Project 1" class="project-image">
+  <h2><a href="https://h5case6.xiaoxxx.cn/202406/NeurlIPS/dist/index.html#/?lang=en_us">NeurIPS 2024 Competition Track: "Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games."</a></h2>
   <div class="project-info">
-    <h2><a href="https://h5case6.xiaoxxx.cn/202406/NeurlIPS/dist/index.html#/?lang=en_us">NeurIPS 2024 Competition Track: "Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games."</a></h2>
+    <img src="/images/project1.jpg" alt="Project 1" class="project-image">
     <p>As an Organizing Team Member, I collaborated with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://www.linkedin.com/in/yeshu-li-a49a98111/?originalSubdomain=cn">Yeshu Li</a> to develop the agents for the competition system.</p>
   </div>
 </div>
