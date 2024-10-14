@@ -23,7 +23,7 @@ My research focuses on the intersection of game theory and machine learning, wit
 
 <div class="project">
   <h2><a href="https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
-  <div class="project-images">
+  <div class="project-image">
     <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
   </div>
   <p>As the competition organizing team member, I collaborated with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://www.linkedin.com/in/yeshu-li-a49a98111/?originalSubdomain=cn">Yeshu Li</a> to develop the agents for the competition system.</p>
@@ -31,7 +31,7 @@ My research focuses on the intersection of game theory and machine learning, wit
 
 <div class="project">
   <h2><a href="link_to_project2_page">Intelligent Recognition and Detection Platform for Muck</a></h2>
-  <div class="project-images">
+  <div class="project-image">
     <img src="/images/project2.jpg" alt="Project 2 Image" class="project-image">
   </div>
   <p>By Zhengye Han, et al.</p>
@@ -39,6 +39,8 @@ My research focuses on the intersection of game theory and machine learning, wit
 
 
 # Internship
+I have extensive experience applying machine learning techniques in both academia and industry. For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han-a45624235/)
+
 <table class="internship-table">
   <thead>
     <tr>
