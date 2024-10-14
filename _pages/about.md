@@ -19,9 +19,10 @@ My research focuses on the intersection of game theory and machine learning, wit
 * Deep learning. Including computer vision and its applications combined with reinforcement learning.
 * Game theory. With a focus on multi-agent scenarios.
 
-## Publications
+## Project
 
-* Hanyu Li, Wenhan Huang, **Zhijian Duan**, David Henry Mguni, Kun Shao, Jun Wang, Xiaotie Deng. [A Survey on Algorithms for Nash Equilibria in Finite Normal-Form Games](https://www.sciencedirect.com/science/article/pii/S1574013723000801). In **Computer Science Review, 2024**. [[arXiv]](https://arXiv.org/abs/2312.11063)
+* Organizing Team Member. [Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games.](https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8) In NeurIPS 2024 Competition Track.
+* Zhengye Han, et al. Intelligent Recognition and Detection Platform for Muck
 
 ## Miscellaneous
 * I like dancing.
