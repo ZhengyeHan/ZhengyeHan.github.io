@@ -21,15 +21,15 @@ My research focuses on the intersection of game theory and machine learning, wit
 
 ## Project
 <div class="project">
-  <img src="/assets/images/project1.jpg" alt="Project 1" class="project-image">
+  <img src="/images/project1.jpg" alt="Project 1" class="project-image">
   <div class="project-info">
-    <h2><a href="[https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8](https://h5case6.xiaoxxx.cn/202406/NeurlIPS/dist/index.html#/?lang=en_us)">Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
-    <p>Organizing Team Member. In NeurIPS 2024 Competition Track.</p>
+    <h2><a href="[https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8](https://h5case6.xiaoxxx.cn/202406/NeurlIPS/dist/index.html#/?lang=en_us)">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
+    <p>Organizing Team Member.</p>
   </div>
 </div>
 
 <div class="project">
-  <img src="/assets/images/project2.jpg" alt="Intelligent Recognition and Detection Platform for Muck" class="project-image">
+  <img src="/images/project2.jpg" alt="Intelligent Recognition and Detection Platform for Muck" class="project-image">
   <div class="project-info">
     <h2><a href="link_to_project2_page">Intelligent Recognition and Detection Platform for Muck</a></h2>
     <p>By Zhengye Han, et al.</p>
