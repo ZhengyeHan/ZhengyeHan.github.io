@@ -439,4 +439,35 @@
   color: #666;
 }
 
+/* 自定义实习表格样式 */
+.internship-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
 
+.internship-table th,
+.internship-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.internship-table th {
+  background-color: #f2f2f2;
+}
+
+.internship-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.internship-table tr:hover {
+  background-color: #ddd;
+}
+
+.company-logo {
+  width: 20px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 5px;
+}
