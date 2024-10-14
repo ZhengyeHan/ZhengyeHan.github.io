@@ -24,5 +24,11 @@ My research focuses on the intersection of game theory and machine learning, wit
 * Organizing Team Member. [Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games.](https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8) In NeurIPS 2024 Competition Track.
 * Zhengye Han, et al. Intelligent Recognition and Detection Platform for Muck
 
+## Internship
+* 1
+
+## public welfare
+* Democratization of AI
+
 ## Miscellaneous
 * I like dancing.
