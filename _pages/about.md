@@ -19,12 +19,12 @@ My research focuses on the intersection of game theory and machine learning, wit
 * Deep learning. Including computer vision and its applications combined with reinforcement learning.
 * Game theory. With a focus on multi-agent scenarios.
 
-## Project
+# Project
 
 <div class="project">
   <h2><a href="https://tianchi.aliyun.com/competition/entrance/532226?spm=a2c22.12281973.0.0.4bd61634CbkTn8">Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
   <div class="project-images">
-    <img src="/images/project1.jpg" alt="Project 1 Image" class="project-image">
+    <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
   </div>
   <p>Organizing Team Member. In NeurIPS 2024 Competition Track.</p>
 </div>
@@ -39,7 +39,7 @@ My research focuses on the intersection of game theory and machine learning, wit
 </div>
 
 
-## Internship
+# Internship
 <table class="internship-table">
   <thead>
     <tr>
@@ -61,8 +61,8 @@ My research focuses on the intersection of game theory and machine learning, wit
   </tbody>
 </table>
 
-## public welfare
+# public welfare
 * Democratization of AI
 
-## Miscellaneous
+# Miscellaneous
 * I like dancing.
