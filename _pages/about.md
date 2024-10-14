@@ -20,28 +20,17 @@ My research focuses on the intersection of game theory and machine learning, wit
 * Game theory. With a focus on multi-agent scenarios.
 
 ## Project
+
 <div class="project">
-  <h2>
-    <a href="https://h5case6.xiaoxxx.cn/202406/NeurlIPS/dist/index.html#/?lang=en_us">
-      NeurIPS 2024 Competition Track: "Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games."
-    </a>
-  </h2>
-  <br>
-  <div class="project-info">
-    <img src="/images/project1.jpg" alt="Project 1" class="project-image">
-  </div>
-  <br>
-  <p>As an Organizing Team Member, I collaborated with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://www.linkedin.com/in/yeshu-li-a49a98111/?originalSubdomain=cn">Yeshu Li</a> to develop the agents for the competition system.</p>
+  <h2><a href="https://tianchi.aliyun.com/competition/entrance/532226">Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
+  <img src="/assets/images/project1.jpg" alt="Auto-Bidding in Large-Scale Auctions" class="project-image">
+  <p>Organizing Team Member. In NeurIPS 2024 Competition Track.</p>
 </div>
 
-
-
 <div class="project">
-  <img src="/images/project2.jpg" alt="Intelligent Recognition and Detection Platform for Muck" class="project-image">
-  <div class="project-info">
-    <h2><a href="link_to_project2_page">Intelligent Recognition and Detection Platform for Muck</a></h2>
-    <p>By Zhengye Han, et al.</p>
-  </div>
+  <h2><a href="link_to_project2_page">Intelligent Recognition and Detection Platform for Muck</a></h2>
+  <img src="/assets/images/project2.jpg" alt="Intelligent Recognition and Detection Platform for Muck" class="project-image">
+  <p>By Zhengye Han, et al.</p>
 </div>
 
 ## Internship
