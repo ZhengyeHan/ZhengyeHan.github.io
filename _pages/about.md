@@ -93,7 +93,7 @@ My research focuses on the intersection of game theory and machine learning, wit
     <img src="/images/public_welfare2.jpg" alt="Project 2 Image" class="project-images">
     <img src="/images/public_welfare3.jpg" alt="Project 3 Image" class="project-images">
   </div>
-  <p>I launched a public welfare campaign in Yulin City, Guangxi, to popularize AI knowledge, extending to county-level key high schools for public welfare lectures. The campaign primarily analyzed the impact of AI technology on the wealth gap and promoted the knowledge of using large models.{\href{https://zhuanlan.zhihu.com/p/649083183?utm_psn=1726714766742073346}{website link}}.</p>
+  <p>I launched a public welfare campaign in Yulin City, Guangxi, to popularize AI knowledge, extending to county-level key high schools for public welfare lectures. The campaign primarily analyzed the impact of AI technology on the wealth gap and promoted the knowledge of using large models.</p>
 </div>
 
 # Miscellaneous
