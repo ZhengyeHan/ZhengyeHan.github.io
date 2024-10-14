@@ -86,7 +86,7 @@ I have extensive experience applying machine learning techniques in both academi
 </table>
 
 
-# public welfare
+# Public welfare
 
 <div class="project">
   <h2><a href="https://zhuanlan.zhihu.com/p/649083183?utm_psn=1726714766742073346">Democratization of AI</a></h2>
@@ -98,4 +98,8 @@ I have extensive experience applying machine learning techniques in both academi
 </div>
 
 # Miscellaneous
-* I like dancing.
+* Hip-hop Dance: Champion of the Small Group Category in the Capital Colleges Dance Competition, Beijing.
+* Campus Musician: Featured artist on NetEase Cloud Music.
+* Public Speaking: Member of the School Hosting Team, responsible for hosting major campus events.
+* Psychology Involvement: Deputy Director of the Organizing Department in the School Psychology Association, where I actively participated in mental health initiatives and psychological outreach.
+* Creative Writing: Passionate about literature, I served as the Deputy Director of the Original Editorial Department for the school's official WeChat account, contributing to creative content and original articles.
