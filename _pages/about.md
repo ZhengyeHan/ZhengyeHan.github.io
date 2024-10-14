@@ -82,9 +82,9 @@ I have extensive experience applying machine learning techniques in both academi
       <td>Quantization strategy、industry research</td>
       <td>06/06/2022 - 04/18/2023</td>
     </tr>
-    <!-- 在这里添加更多的实习经历 -->
   </tbody>
 </table>
+
 
 # public welfare
 
