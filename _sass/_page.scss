@@ -403,33 +403,40 @@
 /* 我的添加 */
 
 .project {
-  margin-bottom: 40px; /* 每个项目之间的间距 */
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
 }
 
-.project h2 {
+.project-image {
+  width: 150px;
+  height: auto;
+  margin-right: 20px;
+  border-radius: 8px;
+}
+
+.project-info {
+  flex: 1;
+}
+
+.project-info h2 {
+  margin-top: 0;
   font-size: 24px;
-  margin-bottom: 10px;
 }
 
-.project h2 a {
+.project-info h2 a {
   text-decoration: none;
   color: #333;
 }
 
-.project h2 a:hover {
+.project-info h2 a:hover {
   color: #007acc;
 }
 
-.project-image {
-  width: 100%;
-  max-width: 600px; /* 根据需要调整图片的最大宽度 */
-  height: auto;
-  margin-bottom: 10px;
-  border-radius: 8px;
-}
-
-.project p {
+.project-info p {
+  margin-top: 10px;
   font-size: 16px;
   color: #666;
 }
+
 
