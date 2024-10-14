@@ -60,7 +60,7 @@ I have extensive experience applying machine learning techniques in both academi
     </tr>
     <tr>
       <td>
-        <img src="/assets/images/companies/pku_logo.png" alt="pku Logo" class="company-logo">
+        <img src="/images/pku_logo.png" alt="pku Logo" class="company-logo">
         Center on Frontiers of Computing Studies at Peking University
       </td>
       <td>machine learning and game theory</td>
