@@ -50,8 +50,8 @@ My research focuses on the intersection of game theory and machine learning, wit
   <tbody>
     <tr>
       <td>
-        <img src="/assets/images/companies/alibaba_logo.png" alt="Alibaba Logo" class="company-logo">
-        Alibaba
+        <img src="/images/alibaba_logo.png" alt="Alibaba Logo" class="company-logo">
+        Alibaba Group
       </td>
       <td>Reinforcement Learning, Auto-bidding Algorithm</td>
       <td>03/28/2024 - present</td>
@@ -66,7 +66,7 @@ My research focuses on the intersection of game theory and machine learning, wit
     </tr>
     <tr>
       <td>
-        <img src="/assets/images/companies/meituan_logo.png" alt="meituan Logo" class="company-logo">
+        <img src="/images/meituan_logo.png" alt="meituan Logo" class="company-logo">
         meituan
       </td>
       <td>LLM for recruitment department</td>
@@ -74,7 +74,7 @@ My research focuses on the intersection of game theory and machine learning, wit
     </tr>
     <tr>
       <td>
-        <img src="/assets/images/companies/BOC_logo.png" alt="BOC Logo" class="company-logo">
+        <img src="/images/BOC_logo.png" alt="BOC Logo" class="company-logo">
         BOC International (China) Co., Ltd
       </td>
       <td>Quantization strategy、industry research</td>
