@@ -16,8 +16,9 @@ During my undergraduate studies, I had the privilege to join the Center on Front
 
 My research focuses on the intersection of game theory and machine learning, with a particular emphasis on the following topics:
 * Reinforcement Learning. Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
-* Deep learning. Including computer vision and its applications combined with reinforcement learning.
 * Game theory. With a focus on multi-agent scenarios.
+* Deep learning. Including computer vision and its applications combined with reinforcement learning.
+
 
 Additionally, I believe that using the knowledge I've acquired to contribute to the development of underprivileged regions, especially in the field of education, is my lifelong purpose. I am willing to promoting equal opportunities and reducing the wealth gap through educational advancements.
 
