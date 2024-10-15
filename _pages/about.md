@@ -26,7 +26,7 @@ My personal motto is a quote from Harvard President Lawrence Bacow:
 *"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."*
 
 # Publication
-* During my internship at Alibaba, I conducted meaningful research related to reinforcement learning. I am the first author of a paper that presents our findings, which has been submitted to the International Conference on Learning Representations (ICLR) 2025. Due to the double-blind review process of the conference, I am unable to disclose further details about the paper until it is officially published.
+* During my internship at Alibaba, I conducted meaningful research. I am the first author of a paper that presents our findings, which has been submitted to the International Conference on Learning Representations (ICLR) 2025. Due to the double-blind review process of the conference, I am unable to disclose further details about the paper until it is officially published.
 
 # Project
 <div class="project">
