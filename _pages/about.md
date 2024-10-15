@@ -45,7 +45,7 @@ My personal motto is a quote from Harvard President Lawrence Bacow:
 </div>
 
 <div class="project">
-  <h2><a href="link_to_project3_page">Large Language Models in Iterated Prisoner's Dilemma: Impact of High-Level Transformer Cues on Cooperation</a></h2>
+  <h2><a href="link_to_project3_page">Large Language Models in Iterated Prisoner's Dilemma: Impact of High-level behavior prompter on Cooperation</a></h2>
   <div class="project-images">
     <img src="/images/bs.png" alt="Project 3 Image" class="project-image">
   </div>
