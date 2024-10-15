@@ -115,5 +115,5 @@ I have extensive experience applying machine learning techniques in both academi
 * Hip-hop Dance: Champion of the Small Group Category in the Capital Colleges Dance Competition, Beijing.
 * Singing: Campus Musician on NetEase Cloud Music.
 * Public Speaking: Member of the School Hosting Team.
-* Psychology: I was Deputy Director of the Organizing Department in the School Psychology Association.
+* Psychology: Deputy Director of the Organizing Department in the School Psychology Association.
 * Writing: Passionate about literature, I served as the Deputy Director of the Original Editorial Department for the school's official WeChat account, contributing to creative content and original articles.
