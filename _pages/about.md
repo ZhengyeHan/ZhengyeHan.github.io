@@ -24,8 +24,10 @@ Additionally, I believe that using the knowledge I've acquired to contribute to 
 My personal motto is a quote from Harvard President Lawrence Bacow:
 *"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."*
 
-# Project
+# Publication
+* During my internship at Alibaba, I conducted meaningful research related to reinforcement learning. I am the first author of a paper that presents our findings, which has been submitted to the International Conference on Learning Representations (ICLR) 2025. Due to the double-blind review process of the conference, I am unable to disclose further details about the paper until it is officially published.
 
+# Project
 <div class="project">
   <h2><a href="https://h5case6.xiaoxxx.cn/202406/NeurlIPS/dist/index.html#/?lang=en_us">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
   <div class="project-images">
@@ -106,5 +108,5 @@ I have extensive experience applying machine learning techniques in both academi
 * Hip-hop Dance: Champion of the Small Group Category in the Capital Colleges Dance Competition, Beijing.
 * Singing: Campus Musician on NetEase Cloud Music.
 * Public Speaking: Member of the School Hosting Team.
-* Psychology Involvement: I was Deputy Director of the Organizing Department in the School Psychology Association.
+* Psychology: I was Deputy Director of the Organizing Department in the School Psychology Association.
 * Writing: Passionate about literature, I served as the Deputy Director of the Original Editorial Department for the school's official WeChat account, contributing to creative content and original articles.
