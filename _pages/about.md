@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am Zhengye Han (韩政业), an undergraduate student in the School of Computer Science & Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), where I study under the supervision of Professor [Zhigang Cao](http://en.sem.bjtu.edu.cn/show-910-467.html) from the School of Economics and Management. Under his guidance, I embarked on my academic journey through the study of game theory.
 
-During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](cfcs.pku.edu.cn/english/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on machine learning and game theory. This was an incredibly formative period in my academic growth. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab, which played a crucial role in my development. I remain immensely appreciative of their support.
+During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](cfcs.pku.edu.cn/english/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on machine learning and game theory. This was an incredibly formative period in my academic growth. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab, which played a crucial role in my development.During my internship at [Alibaba Group](https://www.alibabagroup.com/), I had the pleasure of working with [Yeshu Li](https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en) and [Yusen Huo](https://ieeexplore.ieee.org/author/37088549571). I truly appreciate the insightful advice they provided, particularly regarding academic pursuits and graduate school applications. Their support was instrumental in helping me navigate both my professional and educational pathways during this time. 
 
 ### Research Interests
 
@@ -33,7 +33,7 @@ My personal motto is a quote from Harvard President Lawrence Bacow:
   <div class="project-images">
     <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
   </div>
- <p>This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://www.linkedin.com/in/yeshu-li-a49a98111/?originalSubdomain=cn">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.</p>
+ <p>This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.</p>
 </div>
 
 <div class="project">
@@ -49,7 +49,7 @@ My personal motto is a quote from Harvard President Lawrence Bacow:
   <div class="project-images">
     <img src="/images/bs.png" alt="Project 3 Image" class="project-image">
   </div>
-   <p>This project, conducted under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>, explores the intersection of LLMs and game theory, it formed my undergraduate thesis. I analyzed the behavior of LLMs in the Iterated Prisoner's Dilemma and developed a high-level cueing algorithm to increase their cooperation rates in this game theory scenario.</p>
+   <p>This project, conducted under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>, explores the intersection of LLMs and game theory. It formed my undergraduate thesis. I analyzed the behavior of LLMs in the Iterated Prisoner's Dilemma and developed a high-level cueing algorithm to increase their cooperation rates in this game theory scenario.</p>
 </div>
 
 # Internship
