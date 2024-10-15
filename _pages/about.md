@@ -44,6 +44,13 @@ My personal motto is a quote from Harvard President Lawrence Bacow:
    <p>This project was a collaboration with the School of Civil Engineering, where we applied deep learning (DL) for image recognition and reinforcement learning (RL) for intelligent optimization. The platform addresses challenges in muck detection and improvement, leading to the creation of a fully functional machine prototype. Our work resulted in a national invention patent and three software copyrights.</p>
 </div>
 
+<div class="project">
+  <h2><a href="link_to_project3_page">Large Language Models in Iterated Prisoner's Dilemma: Impact of High-Level Transformer Cues on Cooperation</a></h2>
+  <div class="project-images">
+    <img src="/images/bs.png" alt="Project 3 Image" class="project-image">
+  </div>
+   <p>This project, conducted under the supervision of Professor Zhigang Cao, explores the intersection of LLMs and game theory, it formed my undergraduate thesis. I analyzed the behavior of large language models in the Iterated Prisoner's Dilemma and developed a high-level cueing algorithm to increase their cooperation rates in this game-theory scenario.</p>
+</div>
 
 # Internship
 I have extensive experience applying machine learning techniques in both academia and industry. For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han-a45624235/).
