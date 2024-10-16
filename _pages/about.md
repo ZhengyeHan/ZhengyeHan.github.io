@@ -109,7 +109,7 @@ I have extensive experience applying machine learning techniques in both academi
     <img src="/images/public_welfare1.jpg" alt="Project 1 Image" class="project-image">
     <img src="/images/public_welfare3.jpg" alt="Project 3 Image" class="project-image">
   </div>
-  <p>I launched a public welfare campaign in Yulin City, Guangxi, to popularize AI knowledge, extending to county-level key high schools for public welfare lectures. The campaign primarily analyzed the impact of AI technology on the wealth gap and promoted the knowledge of using LLM.</p>
+  <p>I launched a public welfare campaign in Yulin City, Guangxi, to popularize AI knowledge, extending to high schools for public welfare lectures. The campaign primarily analyzed the impact of AI technology on the wealth gap and promoted the knowledge of using LLM.</p>
 </div>
 
 # Miscellaneous
