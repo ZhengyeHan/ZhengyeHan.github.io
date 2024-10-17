@@ -95,7 +95,7 @@ I have extensive experience applying machine learning techniques in both academi
         BOC International (China) Co., Ltd
       </td>
       <td>Quantization strategy、industry research</td>
-      <td>06/06/2022 - 04/18/2023</td>
+      <td>06/28/2022 - 09/18/2022</td>
     </tr>
   </tbody>
 </table>
