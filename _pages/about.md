@@ -54,7 +54,7 @@ My personal motto is a quote from Harvard President Lawrence Bacow:
 </div>
 
 # Internship
-I have extensive experience applying machine learning techniques in both academia and industry. For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han-a45624235/).
+I have extensive experience applying machine learning techniques in both academia and industry. For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han%EF%BC%88%E9%9F%A9%E6%94%BF%E4%B8%9A%EF%BC%89-a45624235/?originalSubdomain=cn).
 
 <table class="internship-table">
   <thead>
@@ -104,7 +104,7 @@ I have extensive experience applying machine learning techniques in both academi
 # Public welfare
 
 <div class="project">
-  <h2><a href="https://zhuanlan.zhihu.com/p/649083183?utm_psn=1726714766742073346">Democratization of AI</a></h2>
+  <h2><a href="https://zhuanlan.zhihu.com/p/4651711566">Democratization of AI</a></h2>
   <div class="project-images">
     <img src="/images/public_welfare1.jpg" alt="Project 1 Image" class="project-image">
     <img src="/images/public_welfare3.jpg" alt="Project 3 Image" class="project-image">
