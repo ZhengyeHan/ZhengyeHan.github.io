@@ -5,11 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="project">
-  <h2><a href="https://zhengyehan.github.io/publications/project1">Large Language Models in Iterated Prisoner's Dilemma: Impact of High-level behavior prompter on Cooperation</a></h2>
-   <p>This project, conducted under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>, explores the intersection of LLMs and game theory, it formed my undergraduate thesis. I analyzed the behavior of LLMs in the Iterated Prisoner's Dilemma and developed a high-level cueing algorithm to increase their cooperation rates in this game theory scenario.</p>
-</div>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
+{% include base_path %}
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
 
 
