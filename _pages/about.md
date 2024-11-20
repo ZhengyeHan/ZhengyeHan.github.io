@@ -38,7 +38,7 @@ My personal motto is a quote from Harvard President Lawrence Bacow:
 </div>
 
 <div class="project">
-  <h2><a href="link_to_project2_page">Intelligent Recognition and Detection Platform for Muck</a></h2>
+  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-1/">Intelligent Recognition and Detection Platform for Muck</a></h2>
   <div class="project-images">
     <img src="/images/project2.jpg" alt="Project 2 Image" class="project-image">
   </div>
