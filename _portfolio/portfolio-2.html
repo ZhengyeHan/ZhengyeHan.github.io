@@ -1,15 +1,97 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games"
+excerpt: "This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group 
+and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with Shuai Dou and Yeshu Li to develop the agents 
+for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research and Development in Reinforcement Learning at Alibaba Group</title>
+</head>
+<body>
+    <h2>Background</h2>
+    <p>
+        This project was conducted during my internship at <strong>Alibaba TaoTian Group</strong>, a core department of Alibaba, a globally renowned top 100 company and one of China's leading BAT internet giants. This internship offered me invaluable exposure to real-world machine learning applications and marked my first submission as the first author to the prestigious <strong>ICLR conference</strong>.
+    </p>
 
-<div class="project">
-  <h2><a href="link_to_project3_page">Large Language Models in Iterated Prisoner's Dilemma: Impact of High-level behavior prompter on Cooperation</a></h2>
-  <div class="project-images">
-    <img src="/images/bs.png" alt="Project 3 Image" class="project-image">
-  </div>
-   <p>This project, conducted under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>, explores the intersection of LLMs and game theory, it formed my undergraduate thesis. I analyzed the behavior of LLMs in the Iterated Prisoner's Dilemma and developed a high-level cueing algorithm to increase their cooperation rates in this game theory scenario.</p>
-</div>
+    <h2>Project Overview</h2>
+    <p>
+        My internship was divided into two major components: 
+    </p>
+    <ol>
+        <li>
+            <strong>Developing a Scalable Reinforcement Learning Algorithm:</strong>
+            Creating a novel reinforcement learning algorithm, Action Sequence Planner (AS Planner), tailored for large-scale auto-bidding scenarios.
+        </li>
+        <li>
+            <strong>Organizing the NIPS Competition:</strong>
+            Co-organizing the “Auto-Bidding in Large-Scale Auctions” competition at NIPS, including developing baseline agents for competitive auction environments.
+        </li>
+    </ol>
+
+    <h2>Methodology</h2>
+    <h3>1. Scaling Law Research in Reinforcement Learning</h3>
+    <p>
+        Inspired by existing research on reinforcement learning scaling laws (e.g., TDMPC2), I designed a new framework to overcome limitations in long-horizon planning tasks such as Q-value estimation inaccuracies and unreliable TD error updates. To address these issues, I abandoned value function estimation and introduced a pure policy-gradient-based reinforcement learning algorithm.
+    </p>
+    <p>
+        This new algorithm, <strong>AS Planner</strong>, demonstrated exceptional performance in the <strong>D4RL benchmark</strong>, achieving state-of-the-art (SOTA) results. Unlike complex generative models like Diffuser, our approach was simpler, used fewer parameters, and required significantly less training time. The algorithm was successfully tested in diverse reinforcement learning scenarios, including robotic arm control, maze navigation, and auto-bidding.
+    </p>
+
+    <h3>2. Organizing the NIPS Competition</h3>
+    <p>
+        As part of the organizing team for the NIPS competition, I developed reinforcement learning agents capable of participating in large-scale, competitive, real-time auction environments. The system required designing agents with robust auto-bidding capabilities under high uncertainty. My contributions included:
+    </p>
+    <ul>
+        <li>
+            Training agents using advanced offline reinforcement learning techniques, including BCQ, CQL, and IQL.
+        </li>
+        <li>
+            Incorporating Google DeepMind's Q-value optimization tricks for industrial applications to improve agent stability and performance.
+        </li>
+        <li>
+            Developing one-third of the official competition agents, with my BCQ agent achieving third place among all baseline agents in the testing phase.
+        </li>
+    </ul>
+
+    <h2>Key Achievements</h2>
+    <ol>
+        <li>
+            <strong>Algorithm Innovation:</strong>
+            Designed and validated AS Planner, a novel reinforcement learning algorithm with demonstrated scalability and SOTA performance on D4RL tasks.
+        </li>
+        <li>
+            <strong>Practical Impact:</strong>
+            Contributed to the NIPS competition as a key organizer and developer, creating robust and competitive baseline agents for participants to challenge.
+        </li>
+    </ol>
+
+    <h2>Challenges and Reflections</h2>
+    <p>
+        This internship presented numerous challenges that significantly advanced my skills and understanding of reinforcement learning:
+    </p>
+    <ol>
+        <li>
+            <strong>Algorithm Design Complexity:</strong>
+            Developing a completely new reinforcement learning algorithm required extensive experimentation and iteration. Over a three-month period, I dedicated myself to continuous experimentation, even setting up a tent near my workstation to ensure uninterrupted model training.
+        </li>
+        <li>
+            <strong>Competency in Safe Reinforcement Learning:</strong>
+            Designing agents for a competitive and highly uncertain environment required learning and applying safety constraints in reinforcement learning. These efforts ensured agent stability and effectiveness during competition.
+        </li>
+        <li>
+            <strong>Scalability in Industrial Applications:</strong>
+            My work extended beyond auto-bidding scenarios, demonstrating broad applicability to general decision-making problems, marking a significant departure from the team's previous single-domain focus.
+        </li>
+    </ol>
+
+    <h2>Conclusion</h2>
+    <p>
+        This internship profoundly shaped my research direction, enhancing my expertise in reinforcement learning and its industrial applications. The successful development of AS Planner and my contributions to the NIPS competition solidified my ability to tackle complex challenges and innovate within the field. This experience not only prepared me for further academic pursuits but also underscored the transformative potential of reinforcement learning in solving real-world problems.
+    </p>
+</body>
+</html>
