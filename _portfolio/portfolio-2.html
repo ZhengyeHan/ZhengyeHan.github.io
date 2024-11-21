@@ -27,8 +27,8 @@ collection: portfolio
     <p>We consider a bidder participant in a repeated auction for <b>\( T \)</b> rounds.
     We denote by <b>\( B \)</b> and <b>\( R \)</b> the total budget and ROI (return on investment) of the bidder, respectively.</p>
     
-    <p>Bidder values the \( t \)-th round auction at valuation \( v_t \sim F_{v_t} \), and bid \( b_t \).
-    Let \( d_t \sim F_{d_t} \) be the winning price for the bidder to win the auction.
+    <p>Bidder values the \( t \)-th round auction at valuation \( v_t \), and bid \( b_t \).
+    Let \( d_t \) be the winning price for the bidder to win the auction.
     As a result, we can compute the allocation result as \( x_t = \bm{1}\{b_t \ge d_t\} \) and the payment as \( p_t = x_t d_t \).</p>
     
     <h3>Optimization Objective</h3>
@@ -57,8 +57,6 @@ collection: portfolio
         <li><b>Action:</b> \( b_t \in \mathbb{R}_{\ge 0} \)</li>
         <li><b>Policy:</b> \( b_t = \pi(s_t) \)</li>
         <li><b>Reward:</b> \( R_t = x_t v_t \)</li>
-        <li><b>Constraint:</b> constraint function 
-            \( \rr_{t,j} - \rr_{t-1,j} \) for each constraint \( j \).
         </li>
     </ul>
 
