@@ -29,14 +29,14 @@ collection: portfolio
     
     <p>Bidder values the \( t \)-th round auction at valuation \( v_t \), and bid \( b_t \).
     Let \( d_t \) be the winning price for the bidder to win the auction.
-    As a result, we can compute the allocation result as \( x_t = \bm{1}\{b_t \ge d_t\} \) and the payment as \( p_t = x_t d_t \).</p>
+    As a result, we can compute the allocation result as \( x_t = 1\{b_t \ge d_t\} \) and the payment as \( p_t = x_t d_t \).</p>
     
     <h3>Optimization Objective</h3>
     
     <p>Our objective is to find the optimal bidding strategy \( \pi \) that bids at round \( t \in [T] \)
-    according to the available history \( \mathcal{H}_t \coloneqq ((v_\tau, b_\tau, p_\tau)_{\tau=1}^{t-1}) \),
+    according to the available history \( \mathcal{H}_t = ((v_\tau, b_\tau, p_\tau)_{\tau=1}^{t-1}) \),
     valuation \( v_t \) and budget \( B \). 
-    We have \( b_t = \pi(\mathcal{H}_t, v_t, B, R) \), \( x_t = \ONE\{b_t \ge d_t\} \), \( p_t = x_t d_t \).</p>
+    We have \( b_t = \pi(\mathcal{H}_t, v_t, B, R) \), \( x_t = 1\{b_t \ge d_t\} \), \( p_t = x_t d_t \).</p>
     
     <p>The optimization problem is defined as:</p>
     <div class="formula">
