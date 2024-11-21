@@ -20,34 +20,46 @@ collection: portfolio
     
     <img src="/images/project1.png" alt="Project Overview" style="display: block; margin: 15px auto; max-width: 50%; height: auto;"
     
-    <p>BCB Budget Constrained Bidding Model</p>
-
-    <p>problem description</p>
-    <p>The goal is to design a bidding strategy <b>b<sub>t</sub></b> (bid value) that maximizes auction revenue while satisfying budget constraints。</p>
-
-    <p>formulation</p>
-
-    <p>decision variable</p>
-    <p><span class="formula"><b>b<sub>t</sub></b></span>：time <i>t</i> bid.</p>
-
-    <p>input parameter</p>
+    <h2>BCB Budget Constrained Bidding Model</h2>
+    <p>We consider a bidder participant in a repeated second-price auction for <b>\( T \)</b> rounds.
+    We denote by <b>\( B \)</b> and <b>\( R \)</b> the total budget and ROI (return on investment) of the bidder, respectively.</p>
+    
+    <p>Bidder values the \( t \)-th round auction at valuation \( v_t \sim F_{v_t} \), and bid \( b_t \).
+    Let \( d_t \sim F_{d_t} \) be the winning price for the bidder to win the auction.
+    As a result, we can compute the allocation result as \( x_t = \bm{1}\{b_t \ge d_t\} \) and the payment as \( p_t = x_t d_t \).</p>
+    
+    <h3>Optimization Objective</h3>
+    
+    <p>Our objective is to find the optimal bidding strategy \( \pi \) that bids at round \( t \in [T] \)
+    according to the available history \( \mathcal{H}_t \coloneqq ((v_\tau, b_\tau, p_\tau)_{\tau=1}^{t-1}) \),
+    valuation \( v_t \), budget \( B \), and upper bounds of constraints \( \{\kappa_j\}_{j\in[K]} \). 
+    We have \( b_t = \pi(\mathcal{H}_t, v_t, B, R) \), \( x_t = \ONE\{b_t \ge d_t\} \), \( p_t = x_t d_t \).</p>
+    
+    <p>The optimization problem is defined as:</p>
+    <div class="formula">
+        \[
+        \begin{aligned}
+            \max_{\pi}\quad &\mathbb{E}_{v,\pi}\left[\sum_{t=1}^T x_t v_t\right] \\
+            \text{s.t.}\quad &\sum_{t=1}^T x_t p_t \le B,\quad \text{Budget Constraint}\\
+            &\rr_{tj} \coloneqq \frac{\sum_{t=1}^T \cc_{tj}x_t}{\sum_{t=1}^T \pp_{tj}x_t} \le \kappa_j,\quad \forall j \in [K]
+        \end{aligned}
+        \]
+    </div>
+    
+    <h3>Constrained MDP Formalization</h3>
+    
+    <p>We can formalize the above problem as a constrained Markov Decision Process (MDP):</p>
+    
     <ul>
-        <li><b>T</b>：Total number of bidding rounds.</li>
-        <li><b>B</b>：Total budget.</li>
-        <li><b>v<sub>t</sub></b>：Revenue from winning the auction.</li>
-        <li><b>c<sub>t</sub>(b<sub>t</sub>)</b>：The cost corresponding to bidding <b>b<sub>t</sub></b>.</li>
+        <li><b>State:</b> \( s_t \coloneqq (\mathcal{H}_t, v_t, B, \{\kappa_j\}_{j\in[K]}) \)</li>
+        <li><b>Action:</b> \( b_t \in \mathbb{R}_{\ge 0} \)</li>
+        <li><b>Policy:</b> \( b_t = \pi(s_t) \)</li>
+        <li><b>Reward:</b> \( R_t = x_t v_t \)</li>
+        <li><b>Constraint:</b> constraint function 
+            \( \rr_{t,j} - \rr_{t-1,j} \) for each constraint \( j \).
+        </li>
     </ul>
 
-    <p>optimization objective</p>
-    <p>Maximizing expected revenue:</p>
-    <p class="formula">
-        max<sub>{b<sub>1</sub>, b<sub>2</sub>, ..., b<sub>T</sub>}</sub> E[∑<sub>t=1</sub><sup>T</sup> p<sub>t</sub> ⋅ v<sub>t</sub>]
-    </p>
-
-    <p>budget constraint</p>
-    <p class="formula">
-        ∑<sub>t=1</sub><sup>T</sup> c<sub>t</sub>(b<sub>t</sub>) ≤ B
-    </p>
 
     <h2>Project Overview</h2>
     <p>
