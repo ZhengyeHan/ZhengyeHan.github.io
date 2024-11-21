@@ -30,7 +30,7 @@ My personal motto is a quote from Harvard President Lawrence Bacow:
 
 # Project
 <div class="project">
-  <h2><a href="https://h5case6.xiaoxxx.cn/202406/NeurlIPS/dist/index.html#/?lang=en_us">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
+  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-2/">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
   <div class="project-images">
     <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
   </div>
