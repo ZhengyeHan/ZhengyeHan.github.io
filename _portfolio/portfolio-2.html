@@ -16,6 +16,35 @@ collection: portfolio
     <h2>Background</h2>
     <p>
         This project was conducted during my internship at <strong>Alibaba Group</strong>, a globally renowned top 100 company. This internship offered me invaluable exposure to real-world machine learning applications.
+        <h1>BCB Budget Constrained Bidding Model</h1>
+    
+        <h2>问题描述</h2>
+        <p>目标是设计一个出价策略 <b>b<sub>t</sub></b>（出价值），在满足预算限制的同时最大化广告效果，如点击次数（CTR）或转化次数（CVR）。</p>
+    
+        <h2>公式化</h2>
+    
+        <h3>决策变量</h3>
+        <p><span class="formula"><b>b<sub>t</sub></b></span>：时间 <i>t</i> 时的出价值。</p>
+    
+        <h3>输入参数</h3>
+        <ul>
+            <li><b>T</b>：总竞价轮数。</li>
+            <li><b>B</b>：总预算。</li>
+            <li><b>v<sub>t</sub></b>：点击的收益（每轮）。</li>
+            <li><b>p<sub>t</sub></b>：点击率。</li>
+            <li><b>c<sub>t</sub>(b<sub>t</sub>)</b>：出价 <b>b<sub>t</sub></b> 对应的成本。</li>
+        </ul>
+    
+        <h3>优化目标</h3>
+        <p>最大化期望收益：</p>
+        <p class="formula">
+            max<sub>{b<sub>1</sub>, b<sub>2</sub>, ..., b<sub>T</sub>}</sub> E[∑<sub>t=1</sub><sup>T</sup> p<sub>t</sub> ⋅ v<sub>t</sub>]
+        </p>
+    
+        <h3>预算约束</h3>
+        <p class="formula">
+            ∑<sub>t=1</sub><sup>T</sup> c<sub>t</sub>(b<sub>t</sub>) ≤ B
+        </p>
     </p>
 
     <h2>Project Overview</h2>
