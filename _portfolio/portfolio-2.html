@@ -18,17 +18,19 @@ collection: portfolio
         This project was conducted during my internship at <strong>Alibaba Group</strong>, a globally renowned top 100 company. This internship offered me invaluable exposure to real-world machine learning applications.
     </p>
     
+    <img src="/images/project1.png" alt="Project Overview" style="display: block; margin: 15px auto; max-width: 50%; height: auto;"
+    
     <p>BCB Budget Constrained Bidding Model</p>
 
-    <h2>problem description</h2>
+    <p>problem description</p>
     <p>The goal is to design a bidding strategy <b>b<sub>t</sub></b> (bid value) that maximizes auction revenue while satisfying budget constraints。</p>
 
-    <h2>formulation</h2>
+    <p>formulation</p>
 
-    <h3>decision variable</h3>
-    <p><span class="formula"><b>b<sub>t</sub></b></span>：time <i>t</i> bid。</p>
+    <p>decision variable</p>
+    <p><span class="formula"><b>b<sub>t</sub></b></span>：time <i>t</i> bid.</p>
 
-    <h3>input parameter</h3>
+    <p>input parameter</p>
     <ul>
         <li><b>T</b>：Total number of bidding rounds.</li>
         <li><b>B</b>：Total budget.</li>
@@ -36,13 +38,13 @@ collection: portfolio
         <li><b>c<sub>t</sub>(b<sub>t</sub>)</b>：The cost corresponding to bidding <b>b<sub>t</sub></b>.</li>
     </ul>
 
-    <h3>optimization objective</h3>
+    <p>optimization objective</p>
     <p>Maximizing expected revenue:</p>
     <p class="formula">
         max<sub>{b<sub>1</sub>, b<sub>2</sub>, ..., b<sub>T</sub>}</sub> E[∑<sub>t=1</sub><sup>T</sup> p<sub>t</sub> ⋅ v<sub>t</sub>]
     </p>
 
-    <h3>budget constraint</h3>
+    <p>budget constraint</p>
     <p class="formula">
         ∑<sub>t=1</sub><sup>T</sup> c<sub>t</sub>(b<sub>t</sub>) ≤ B
     </p>
