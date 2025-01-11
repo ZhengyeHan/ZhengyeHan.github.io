@@ -25,6 +25,14 @@ Additionally, I believe that using the knowledge I've acquired to contribute to 
 My personal motto is a quote from Harvard President Lawrence Bacow:
 *"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."*
 
+Click the image below to watch a video introduction of my personal growth journey, titled "Bridging Horizons: From Social Boundaries to AI for All."
+
+<div class="project">
+  <a href="https://b23.tv/7GpNv7z" target="_blank">
+    <img src="/images/growth.jpg" alt="Growth Journey Video" class="project-image">
+  </a>
+</div>
+
 # Publication
 * During my internship at Alibaba, I conducted meaningful research. I am the first author of a paper that presents our findings, which has been submitted to the International Conference on Learning Representations (ICLR) 2025. Due to the double-blind review process of the conference, I am unable to disclose further details about the paper until it is officially published.
 
