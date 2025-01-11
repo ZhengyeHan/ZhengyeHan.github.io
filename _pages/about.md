@@ -25,9 +25,9 @@ Additionally, I believe that using the knowledge I've acquired to contribute to 
 My personal motto is a quote from Harvard President Lawrence Bacow:
 *"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."*
 
-Click the image below to watch a video introduction of my personal growth journey, titled "Bridging Horizons: From Social Boundaries to AI for All."
+Click the image below to watch a video introduction of my personal growth journey.
 
-<div class="project">
+<div class="project" style="text-align: center;">
   <a href="https://b23.tv/7GpNv7z" target="_blank">
     <img src="/images/growth.jpg" alt="Growth Journey Video" class="project-image">
   </a>
