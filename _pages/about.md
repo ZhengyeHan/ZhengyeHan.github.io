@@ -23,9 +23,7 @@ My research focuses on the intersection of game theory and machine learning, wit
 Additionally, I believe that using the knowledge I've acquired to contribute to the development of underprivileged regions, especially in the field of education, is my lifelong purpose. I am willing to promoting equal opportunities and reducing the wealth gap through educational advancements.
 
 My personal motto is a quote from Harvard President Lawrence Bacow:
-*"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."*
-
-Click the image below to watch a video introduction of my personal growth journey.
+*"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."* Click the image below to watch a video introduction of my personal growth journey.
 
 <div class="project" style="text-align: center;">
   <a href="https://b23.tv/7GpNv7z" target="_blank">
@@ -79,7 +77,7 @@ I have extensive experience applying machine learning techniques in both academi
         Alibaba Group
       </td>
       <td>Reinforcement Learning, Auto-bidding Algorithm</td>
-      <td>03/28/2024 - present</td>
+      <td>03/28/2024 - 12/17/2024</td>
     </tr>
     <tr>
       <td>
@@ -87,7 +85,7 @@ I have extensive experience applying machine learning techniques in both academi
         Center on Frontiers of Computing Studies at Peking University
       </td>
       <td>Machine learning and game theory</td>
-      <td>02/20/2023 - present</td>
+      <td>02/20/2023 - 12/20/2024</td>
     </tr>
     <tr>
       <td>
