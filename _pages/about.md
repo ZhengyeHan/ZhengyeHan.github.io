@@ -32,7 +32,8 @@ Click the image below to watch a video introduction of my personal growth journe
 </div>
 
 # Publication
-* During my internship at Alibaba, I conducted meaningful research. I am the first author of a paper that presents our findings, which has been submitted to the International Conference on Learning Representations (ICLR) 2025. Due to the double-blind review process of the conference, I am unable to disclose further details about the paper until it is officially published.
+* Zhengye Han, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. Action Sequence Planner: An Alternative for Offline Reinforcement Learning. In ICLR 2025 Conference Submission.
+*  Zhengye Han, et al. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In NeurIPS 2024 Datasets and Benchmarks Track (Spotlight). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">GitHub</a>
 
 # Project
 <div class="project">
