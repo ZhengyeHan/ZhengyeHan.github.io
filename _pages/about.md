@@ -8,6 +8,71 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* 实习卡片容器，增加整体宽度和呼吸感 */
+  .internship-cards {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  /* 单个实习项目卡片 */
+  .internship-item {
+    display: flex;
+    align-items: center; /* 关键：让所有内容在垂直方向上居中对齐 */
+    background-color: #f9f9f9; /* 使用一个非常柔和的背景色，极大提升高级感 */
+    border-radius: 12px; /* 更大的圆角，更柔和 */
+    margin-bottom: 20px; /* 卡片之间的间距 */
+    padding: 20px 25px; /* 卡片内边距，给内容呼吸空间 */
+    border: 1px solid #e0e0e0; /* 柔和的边框 */
+    transition: box-shadow 0.2s ease, transform 0.2s ease; /* 增加简单的 hover 效果，显得有质感 */
+  }
+
+  /* 悬停效果：轻微阴影和向上移动 */
+  .internship-item:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    transform: translateY(-2px);
+  }
+
+  /* 图标容器：大而清晰，且不变形的关键 */
+  .logo-box {
+    width: 100px; /* 极大地增加图标的最大空间 */
+    height: 100px; /* 固定容器高度，确保所有行对齐 */
+    margin-right: 30px; /* 图标和文字之间的间距 */
+    display: flex;
+    align-items: center; /* 垂直居中图标 */
+    justify-content: center; /* 水平居中图标 */
+    flex-shrink: 0; /* 确保在窄屏下图标不被压缩 */
+    overflow: hidden; /* 隐藏溢出部分 */
+  }
+
+  /* 真正的图标：保持比例且不变形的关键 */
+  .item-logo {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* 核心：在容器内保持比例，永不变形，即使原图比例不同（如美团的长方形） */
+  }
+
+  /* 文字内容容器 */
+  .content-box {
+    flex-grow: 1; /* 占用剩余所有空间 */
+  }
+
+  /* 组织名称 */
+  .org-title {
+    font-size: 1.3rem; /* 字体大一些，更专业 */
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 5px;
+  }
+
+  /* 持续时间 */
+  .duration-text {
+    font-size: 1rem;
+    color: #666; /* 使用灰色，让时间不那么抢眼 */
+    font-style: italic; /* 斜体增加学术感 */
+  }
+</style>
+
 Hello, I am Zhengye Han (韩政业), a 1st year PhD student in [New York university](https://www.nyu.edu/), I am advised by Prof.[Quanyan Zhu](https://scholar.google.com/citations?user=Qt2WDh0AAAAJ&hl=en), I got my BS degree in Computer Science from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), where I study under the supervision of Professor [Zhigang Cao](http://en.sem.bjtu.edu.cn/show-910-467.html). Under his guidance, I embarked on my academic journey through the study of game theory.
 
 During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
@@ -19,9 +84,6 @@ My research focuses on the following topics:
 * AI Safety: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
 * Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
 
-
-Additionally, I believe that using the knowledge I've acquired to contribute to the development of underprivileged regions, especially in the field of education, is my lifelong purpose. I am willing to promoting equal opportunities and reducing the wealth gap through educational advancements. My personal motto is a quote from Harvard President Lawrence Bacow:
-*"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."*
 
 # Publications
 * <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. In <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026.
@@ -49,47 +111,48 @@ Additionally, I believe that using the knowledge I've acquired to contribute to 
 </div>
 
 # Internship
-I have extensive experience applying machine learning techniques in both academia and industry. For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han%EF%BC%88%E9%9F%A9%E6%94%BF%E4%B8%9A%EF%BC%89-a45624235/?originalSubdomain=cn).
+For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengye-han%EF%BC%88%E9%9F%A9%E6%94%BF%E4%B8%9A%EF%BC%89-a45624235/?originalSubdomain=cn](https://www.linkedin.com/in/zhengye-han-a45624235/)).
+<div class="internship-cards">
+  <div class="internship-item">
+    <div class="logo-box">
+      <img src="/images/alibaba_logo.png" alt="Alibaba Group Logo" class="item-logo">
+    </div>
+    <div class="content-box">
+      <div class="org-title">Alibaba Group</div>
+      <div class="duration-text">03/2024 - 12/2024</div>
+    </div>
+  </div>
 
-<table class="internship-table">
-  <thead>
-    <tr>
-      <th style="text-align: left;">Organization</th>
-      <th style="text-align: right;">Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left;">
-        <img src="/images/alibaba_logo.png" alt="Alibaba Logo" class="company-logo" style="vertical-align: middle; margin-right: 10px; width: 24px;">
-        <strong>Alibaba Group</strong>
-      </td>
-      <td style="text-align: right; color: #555;">03/2024 - 12/2024</td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">
-        <img src="/images/pku_logo.png" alt="PKU Logo" class="company-logo" style="vertical-align: middle; margin-right: 10px; width: 24px;">
-        <strong>Center on Frontiers of Computing Studies, Peking University</strong>
-      </td>
-      <td style="text-align: right; color: #555;">02/2023 - 12/2024</td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">
-        <img src="/images/meituan_logo.png" alt="Meituan Logo" class="company-logo" style="vertical-align: middle; margin-right: 10px; width: 24px;">
-        <strong>Meituan</strong>
-      </td>
-      <td style="text-align: right; color: #555;">10/2023 - 01/2024</td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">
-        <img src="/images/BOC_logo.png" alt="BOC Logo" class="company-logo" style="vertical-align: middle; margin-right: 10px; width: 24px;">
-        <strong>BOC International (China) Co., Ltd</strong>
-      </td>
-      <td style="text-align: right; color: #555;">06/2022 - 09/2022</td>
-    </tr>
-  </tbody>
-</table>
+  <div class="internship-item">
+    <div class="logo-box">
+      <img src="/images/pku_logo.png" alt="PKU Logo" class="item-logo">
+    </div>
+    <div class="content-box">
+      <div class="org-title">Center on Frontiers of Computing Studies, Peking University</div>
+      <div class="duration-text">02/2023 - 12/2024</div>
+    </div>
+  </div>
 
+  <div class="internship-item">
+    <div class="logo-box">
+      <img src="/images/meituan_logo.png" alt="Meituan Logo" class="item-logo">
+    </div>
+    <div class="content-box">
+      <div class="org-title">Meituan</div>
+      <div class="duration-text">10/2023 - 01/2024</div>
+    </div>
+  </div>
+
+  <div class="internship-item">
+    <div class="logo-box">
+      <img src="/images/BOC_logo.png" alt="BOC Logo" class="item-logo">
+    </div>
+    <div class="content-box">
+      <div class="org-title">BOC International (China) Co., Ltd</div>
+      <div class="duration-text">06/2022 - 09/2022</div>
+    </div>
+  </div>
+</div>
 # Public welfare
 
 <div class="project">
