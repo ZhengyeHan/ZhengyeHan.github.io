@@ -1,36 +1,93 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap" style="margin-bottom: 30px;">
+    You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
-{% include base_path %}
+<style>
+  .pub-list {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0;
+  }
+  .pub-list li {
+    margin-bottom: 25px;
+    line-height: 1.6;
+    font-size: 1.05em;
+  }
+  .me {
+    font-weight: 700;
+    color: #222;
+  }
+  .venue {
+    font-style: italic;
+  }
+  /* 自定义炫酷按钮 */
+  .pub-btn {
+    display: inline-block;
+    padding: 2px 8px;
+    margin-left: 8px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+  .btn-arxiv {
+    background-color: #fcf1f1;
+    color: #b31b1b;
+    border: 1px solid #f2d4d4;
+  }
+  .btn-arxiv:hover {
+    background-color: #b31b1b;
+    color: white;
+  }
+  .btn-code {
+    background-color: #f1f8ff;
+    color: #0366d6;
+    border: 1px solid #c8e1ff;
+  }
+  .btn-code:hover {
+    background-color: #0366d6;
+    color: white;
+  }
+</style>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ul class="pub-list">
+  
+  <li>
+    <span class="me">Zhengye Han</span>, Quanyan Zhu. <br>
+    <strong>Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking.</strong> <br>
+    In <span class="venue">International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</span>, 2026. 
+    <a href="https://arxiv.org/abs/2507.08207" class="pub-btn btn-arxiv" target="_blank">[arXiv]</a>
+  </li>
 
+  <li>
+    Quanyan Zhu, <span class="me">Zhengye Han</span>. <br>
+    <strong>A Mathematical Programming Approach to Computing and Learning Berk–Nash Equilibria in Infinite-Horizon MDPs.</strong> <br>
+    In <span class="venue">14th EAI International Conference on Game Theory for Networks (GameNets)</span>, 2026.
+    <a href="https://arxiv.org/abs/2603.13641" class="pub-btn btn-arxiv" target="_blank">[arXiv]</a>
+  </li>
 
+  <li>
+    <span class="me">Zhengye Han</span>, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. <br>
+    <strong>Action Sequence Planner: An Alternative for Offline Reinforcement Learning.</strong> <br>
+    Under review in <span class="venue">ICLR 2025</span>.
+    <a href="https://openreview.net/forum?id=MtjPIDWyWK" class="pub-btn btn-code" target="_blank">[OpenReview]</a>
+  </li>
 
+  <li>
+    Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <span class="me">Zhengye Han</span>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. <br>
+    <strong>Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games.</strong> <br>
+    In <span class="venue">NeurIPS 2024 Datasets and Benchmarks Track (<span style="color: red;">Spotlight</span>)</span>.
+    <a href="https://github.com/alimama-tech/AuctionNet" class="pub-btn btn-code" target="_blank">[GitHub]</a>
+  </li>
+
+</ul>
