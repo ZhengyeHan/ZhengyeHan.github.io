@@ -313,5 +313,6 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 
 # Miscellaneous
 * Public Speaking: NYU PhD live! top 8 PhD speaker, member of the School Hosting Team in BJTU.
+* Singing: Campus Musician on NetEase Cloud Music, Participated in a choir performance at a national event on Mango TV.
 * Hip-hop Dance: Champion of the Small Group Category in the Capital Colleges Dance Competition, Beijing.
 * Writing: Passionate about literature, I served as the Deputy Director of the Original Editorial Department for the school's official WeChat account, contributing to creative content and original articles.
