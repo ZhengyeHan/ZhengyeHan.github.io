@@ -3,7 +3,6 @@ title: "Split-Merge Dynamics for Shapley-Fair Coalition Formation"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-01-shapley-fair-coalition
-excerpt: 'This paper investigates split-merge dynamics in the context of Shapley-fair coalition formation.'
 date: 2026-03-01
 venue: 'Under review in International Symposium on Mathematical Theory of Networks and Systems'
 paperurl: 'https://arxiv.org/abs/2603.17153'
