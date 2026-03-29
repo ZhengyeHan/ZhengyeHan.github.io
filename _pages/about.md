@@ -8,24 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Zhengye Han (韩政业), an undergraduate student in the School of Computer Science & Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), where I study under the supervision of Professor [Zhigang Cao](http://en.sem.bjtu.edu.cn/show-910-467.html). Under his guidance, I embarked on my academic journey through the study of game theory.
+Hello, I am Zhengye Han (韩政业), a 1st year PhD student in [New York university](https://www.nyu.edu/), I am advised by Prof.[Quanyan Zhu](https://scholar.google.com/citations?user=Qt2WDh0AAAAJ&hl=en), I got my BS degree in Computer Science from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), where I study under the supervision of Professor [Zhigang Cao](http://en.sem.bjtu.edu.cn/show-910-467.html). Under his guidance, I embarked on my academic journey through the study of game theory.
 
-During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on machine learning and game theory. This was an incredibly formative period in my academic growth. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab, which played a crucial role in my development. During my internship at [Alibaba Group](https://www.alibabagroup.com/), I had the pleasure of working with [Yeshu Li](https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en) and [Yusen Huo](https://ieeexplore.ieee.org/author/37088549571). I truly appreciate the insightful advice they provided, particularly regarding academic pursuits and graduate school applications. Their support was instrumental in helping me navigate both my professional and educational pathways during this time. 
+During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
 
 ### Research Interests
 
-My research focuses on the intersection of game theory and machine learning, with a particular emphasis on the following topics:
-* Reinforcement Learning. Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
-* Game theory. With a focus on multi-agent scenarios.
-* Deep learning. Including computer vision and its applications combined with reinforcement learning.
+My research focuses on the following topics:
+* Multi-Agent Systems: Specifically focusing on the integration of game theory and reinforcement learning in multi-agent environments.
+* AI Safety: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
+* Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
 
 
 Additionally, I believe that using the knowledge I've acquired to contribute to the development of underprivileged regions, especially in the field of education, is my lifelong purpose. I am willing to promoting equal opportunities and reducing the wealth gap through educational advancements. My personal motto is a quote from Harvard President Lawrence Bacow:
 *"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."*
 
-# Publication
-* <strong>Zhengye Han</strong>, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. Action Sequence Planner: An Alternative for Offline Reinforcement Learning. In ICLR 2025 Conference Submission.
-*  Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In NeurIPS 2024 Datasets and Benchmarks Track (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">GitHub</a>
+# Publications
+* <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. In <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026.
+* Quanyan Zhu, <strong>Zhengye Han</strong>. Split-Merge Dynamics for Shapley-Fair Coalition Formation. <em>arXiv preprint arXiv:2603.17153</em>, 2026.
+* Quanyan Zhu, <strong>Zhengye Han</strong>. Learning, Misspecification, and Cognitive Arbitrage in Linear-Quadratic Network Games. <em>arXiv preprint arXiv:2603.17157</em>, 2026.
+* Quanyan Zhu, <strong>Zhengye Han</strong>. A Mathematical Programming Approach to Computing and Learning Berk–Nash Equilibria in Infinite-Horizon MDPs. In <em>14th EAI International Conference on Game Theory for Networks (GameNets)</em>, 2026.
+* <strong>Zhengye Han</strong>, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. Action Sequence Planner: An Alternative for Offline Reinforcement Learning. 2025. 
+* Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In <em>NeurIPS 2024 Datasets and Benchmarks Track</em> (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">GitHub</a>
 
 # Project
 <div class="project">
@@ -44,61 +48,47 @@ Additionally, I believe that using the knowledge I've acquired to contribute to 
    <p>This project was a collaboration with the School of Civil Engineering, where we applied deep learning (DL) for image recognition and reinforcement learning (RL) for intelligent optimization. The platform addresses challenges in muck detection and improvement, leading to the creation of a fully functional machine prototype. Our work resulted in a national invention patent and three software copyrights.</p>
 </div>
 
-<div class="project">
-  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-0/">Large Language Models in Iterated Prisoner's Dilemma: Impact of High-level behavior prompter on Cooperation</a></h2>
-  <div class="project-images">
-    <img src="/images/bs.png" alt="Project 3 Image" class="project-image">
-  </div>
-   <p>This project, conducted under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>, explores the intersection of LLMs and game theory, it formed my undergraduate thesis. I analyzed the behavior of LLMs in the Iterated Prisoner's Dilemma and developed a high-level cueing algorithm to increase their cooperation rates in this game theory scenario.</p>
-</div>
-
 # Internship
 I have extensive experience applying machine learning techniques in both academia and industry. For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han%EF%BC%88%E9%9F%A9%E6%94%BF%E4%B8%9A%EF%BC%89-a45624235/?originalSubdomain=cn).
 
 <table class="internship-table">
   <thead>
     <tr>
-      <th>Company Name</th>
-      <th>Main Work Keywords</th>
-      <th>Time</th>
+      <th style="text-align: left;">Organization</th>
+      <th style="text-align: right;">Duration</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <img src="/images/alibaba_logo.png" alt="Alibaba Logo" class="company-logo">
-        Alibaba Group
+      <td style="text-align: left;">
+        <img src="/images/alibaba_logo.png" alt="Alibaba Logo" class="company-logo" style="vertical-align: middle; margin-right: 10px; width: 24px;">
+        <strong>Alibaba Group</strong>
       </td>
-      <td>Reinforcement Learning, Auto-bidding Algorithm</td>
-      <td>03/28/2024 - 12/17/2024</td>
+      <td style="text-align: right; color: #555;">03/2024 - 12/2024</td>
     </tr>
     <tr>
-      <td>
-        <img src="/images/pku_logo.png" alt="pku Logo" class="company-logo">
-        Center on Frontiers of Computing Studies at Peking University
+      <td style="text-align: left;">
+        <img src="/images/pku_logo.png" alt="PKU Logo" class="company-logo" style="vertical-align: middle; margin-right: 10px; width: 24px;">
+        <strong>Center on Frontiers of Computing Studies, Peking University</strong>
       </td>
-      <td>Machine learning and game theory</td>
-      <td>02/20/2023 - 12/20/2024</td>
+      <td style="text-align: right; color: #555;">02/2023 - 12/2024</td>
     </tr>
     <tr>
-      <td>
-        <img src="/images/meituan_logo.png" alt="meituan Logo" class="company-logo">
-        Meituan
+      <td style="text-align: left;">
+        <img src="/images/meituan_logo.png" alt="Meituan Logo" class="company-logo" style="vertical-align: middle; margin-right: 10px; width: 24px;">
+        <strong>Meituan</strong>
       </td>
-      <td>LLM for recruitment department</td>
-      <td>10/17/2023 - 1/27/2024</td>
+      <td style="text-align: right; color: #555;">10/2023 - 01/2024</td>
     </tr>
     <tr>
-      <td>
-        <img src="/images/BOC_logo.png" alt="BOC Logo" class="company-logo">
-        BOC International (China) Co., Ltd
+      <td style="text-align: left;">
+        <img src="/images/BOC_logo.png" alt="BOC Logo" class="company-logo" style="vertical-align: middle; margin-right: 10px; width: 24px;">
+        <strong>BOC International (China) Co., Ltd</strong>
       </td>
-      <td>Quantization strategy、industry research</td>
-      <td>06/28/2022 - 09/18/2022</td>
+      <td style="text-align: right; color: #555;">06/2022 - 09/2022</td>
     </tr>
   </tbody>
 </table>
-
 
 # Public welfare
 
