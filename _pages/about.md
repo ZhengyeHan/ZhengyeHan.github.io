@@ -131,12 +131,31 @@ redirect_from:
   </div>
 </div>
 
-During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
+During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to Dr.[Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
 
 My research focuses on the following topics:
 * Multi-Agent Systems: Exploring the integration of game theory and Reinforcement Learning in multi-agent environments.
 * AI Safety: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
 * Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and Safe Reinforcement Learning.
+
+<h3>🔥 News</h3>
+<div style="height: 200px; overflow-y: auto; border: 1px solid #eaeaea; padding: 15px; border-radius: 8px; background-color: #fcfcfc; font-size: 0.95em;">
+  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    
+    <li style="margin-bottom: 12px;">
+      <span style="font-weight: 600; color: #555;">[Mar 2026]</span> 🎉 Our paper <i>"Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking"</i> has been accepted by the ICLR 2026 Workshop on AI for Mechanism Design and Strategic Decision Making!
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <span style="font-weight: 600; color: #555;">[Sep 2025]</span> 🗽 I officially started my Ph.D. journey at the ECE Department of New York University (NYU)! 
+    </li>
+
+    <li style="margin-bottom: 12px;">
+      <span style="font-weight: 600; color: #555;">[Jun 2024]</span> 🏆 Co-organized the NeurIPS 2024 Competition: <i>"Auto-Bidding in Large-Scale Auctions"</i> and open-sourced <a href="#">AuctionNet</a> as a core code contributor.
+    </li>
+
+  </ul>
+</div>
 
 # Internship
 For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han-a45624235/).
