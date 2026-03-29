@@ -160,6 +160,7 @@ My research focuses on the following topics:
 
 # Internship
 For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han-a45624235/).
+
 <div class="internship-cards">
   <div class="internship-item">
     <div class="logo-box">
