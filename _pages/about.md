@@ -14,7 +14,6 @@ redirect_from:
     margin-top: 20px;
   }
 
-  /* 单个实习项目卡片 */
   .internship-item {
     display: flex;
     align-items: center; 
@@ -83,32 +82,6 @@ My research focuses on the following topics:
 * AI Safety: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
 * Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
 
-
-# Publications
-* <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. In <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026.
-* Quanyan Zhu, <strong>Zhengye Han</strong>. Split-Merge Dynamics for Shapley-Fair Coalition Formation. <em>arXiv preprint arXiv:2603.17153</em>, 2026.
-* Quanyan Zhu, <strong>Zhengye Han</strong>. Learning, Misspecification, and Cognitive Arbitrage in Linear-Quadratic Network Games. <em>arXiv preprint arXiv:2603.17157</em>, 2026.
-* Quanyan Zhu, <strong>Zhengye Han</strong>. A Mathematical Programming Approach to Computing and Learning Berk–Nash Equilibria in Infinite-Horizon MDPs. In <em>14th EAI International Conference on Game Theory for Networks (GameNets)</em>, 2026.
-* <strong>Zhengye Han</strong>, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. Action Sequence Planner: An Alternative for Offline Reinforcement Learning. 2025. 
-* Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In <em>NeurIPS 2024 Datasets and Benchmarks Track</em> (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">GitHub</a>
-
-# Project
-<div class="project">
-  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-2/">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
-  <div class="project-images">
-    <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
-  </div>
- <p>This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.</p>
-</div>
-
-<div class="project">
-  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-1/">Intelligent Recognition and Detection Platform for Muck</a></h2>
-  <div class="project-images">
-    <img src="/images/project2.jpg" alt="Project 2 Image" class="project-image">
-  </div>
-   <p>This project was a collaboration with the School of Civil Engineering, where we applied deep learning (DL) for image recognition and reinforcement learning (RL) for intelligent optimization. The platform addresses challenges in muck detection and improvement, leading to the creation of a fully functional machine prototype. Our work resulted in a national invention patent and three software copyrights.</p>
-</div>
-
 # Internship
 For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengye-han%EF%BC%88%E9%9F%A9%E6%94%BF%E4%B8%9A%EF%BC%89-a45624235/?originalSubdomain=cn](https://www.linkedin.com/in/zhengye-han-a45624235/)).
 <div class="internship-cards">
@@ -152,8 +125,37 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
     </div>
   </div>
 </div>
-# Public welfare
 
+
+
+# Publications
+
+* <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. In <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026. <a href="https://arxiv.org/abs/2507.08207" style="color: blue;">[arXiv]</a>
+* Quanyan Zhu, <strong>Zhengye Han</strong>. Split-Merge Dynamics for Shapley-Fair Coalition Formation. Under review in <em>International Symposium on Mathematical Theory of Networks and Systems 2026</em>. <a href="https://arxiv.org/abs/2603.17153" style="color: blue;">[arXiv]</a>
+* Quanyan Zhu, <strong>Zhengye Han</strong>. Learning, Misspecification, and Cognitive Arbitrage in Linear-Quadratic Network Games. Under review in <em>International Symposium on Mathematical Theory of Networks and Systems 2026</em>. <a href="https://arxiv.org/abs/2603.17157" style="color: blue;">[arXiv]</a>
+* Quanyan Zhu, <strong>Zhengye Han</strong>. A Mathematical Programming Approach to Computing and Learning Berk–Nash Equilibria in Infinite-Horizon MDPs. In <em>14th EAI International Conference on Game Theory for Networks (GameNets)</em>, 2026. <a href="https://arxiv.org/abs/2603.13641" style="color: blue;">[arXiv]</a>
+* <strong>Zhengye Han</strong>, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. Action Sequence Planner: An Alternative for Offline Reinforcement Learning. Under review in <em>ICLR 2025</em>. <a href="https://openreview.net/forum?id=MtjPIDWyWK" style="color: blue;">[OpenReview]</a>
+* Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In <em>NeurIPS 2024 Datasets and Benchmarks Track</em> (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">[GitHub]</a>
+
+# Project
+<div class="project">
+  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-2/">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
+  <div class="project-images">
+    <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
+  </div>
+ <p>This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.</p>
+</div>
+
+<div class="project">
+  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-1/">Intelligent Recognition and Detection Platform for Muck</a></h2>
+  <div class="project-images">
+    <img src="/images/project2.jpg" alt="Project 2 Image" class="project-image">
+  </div>
+   <p>This project was a collaboration with the School of Civil Engineering, where we applied deep learning (DL) for image recognition and reinforcement learning (RL) for intelligent optimization. The platform addresses challenges in muck detection and improvement, leading to the creation of a fully functional machine prototype. Our work resulted in a national invention patent and three software copyrights.</p>
+</div>
+
+
+# Public welfare
 <div class="project">
   <h2><a href="https://zhuanlan.zhihu.com/p/4651711566">Democratization of AI</a></h2>
   <div class="project-images">
