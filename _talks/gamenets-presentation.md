@@ -5,7 +5,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2026-03-28-gamenets-presentation
 venue: "15th EAI International Conference on Game Theory for Networks (GameNets)"
 date: 2026-03-28
-location: "Virtual / Jersey City, NJ"
+location: "Virtual"
 ---
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); margin-bottom: 30px;">
