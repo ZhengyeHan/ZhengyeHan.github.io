@@ -75,8 +75,6 @@ Hello, I am Zhengye Han (韩政业), a 1st year PhD student in [New York univers
 
 During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
 
-### Research Interests
-
 My research focuses on the following topics:
 * Multi-Agent Systems: Specifically focusing on the integration of game theory and reinforcement learning in multi-agent environments.
 * AI Safety: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
@@ -136,23 +134,121 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 * <strong>Zhengye Han</strong>, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. Action Sequence Planner: An Alternative for Offline Reinforcement Learning. Under review in <em>ICLR 2025</em>. <a href="https://openreview.net/forum?id=MtjPIDWyWK" style="color: blue;">[OpenReview]</a>
 * Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In <em>NeurIPS 2024 Datasets and Benchmarks Track</em> (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">[GitHub]</a>
 
+<style>
+  .showcase-card {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    margin-bottom: 35px;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #fcfcfc;
+    border: 1px solid #eef0f2;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  /* 鼠标悬停时的浮动阴影效果 */
+  .showcase-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.06);
+  }
+
+  .showcase-images {
+    flex: 0 0 320px; /* 固定图片区域的宽度 */
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  /* 针对多张图片做横向排列适配 */
+  .showcase-images.row-layout {
+    flex-direction: row;
+  }
+  
+  .showcase-images img {
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+    border: 1px solid #eee;
+  }
+
+  .showcase-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .showcase-title {
+    font-size: 1.25em;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 12px;
+    line-height: 1.4;
+  }
+
+  .showcase-title a {
+    color: #2c3e50; /* 更沉稳的标题颜色 */
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease, color 0.2s ease;
+  }
+
+  .showcase-title a:hover {
+    color: #0366d6;
+    border-bottom: 2px solid #0366d6;
+  }
+
+  .showcase-desc {
+    font-size: 0.95em;
+    color: #555;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* 手机端自动转为上下布局 */
+  @media (max-width: 768px) {
+    .showcase-card {
+      flex-direction: column;
+      padding: 15px;
+    }
+    .showcase-images {
+      flex: 0 0 auto;
+    }
+  }
+</style>
+
 # Project
-<div class="project">
-  <h2><a href="https://github.com/alimama-tech/AuctionNet">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
-  <div class="project-images">
-    <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
+
+<div class="showcase-card">
+  <div class="showcase-images">
+    <img src="/images/project1.png" alt="Auto-Bidding in Large-Scale Auctions">
   </div>
- <p>This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.</p>
+  <div class="showcase-content">
+    <h2 class="showcase-title">
+      <a href="https://github.com/alimama-tech/AuctionNet" target="_blank">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions</a>
+    </h2>
+    <p class="showcase-desc">
+      This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1" target="_blank">Shuai Dou</a> and <a href="https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en" target="_blank">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.
+    </p>
+  </div>
 </div>
 
 # Public welfare
-<div class="project">
-  <h2><a href="https://zhuanlan.zhihu.com/p/4651711566">Democratization of AI</a></h2>
-  <div class="project-images">
-    <img src="/images/public_welfare1.jpg" alt="Project 1 Image" class="project-image">
-    <img src="/images/public_welfare3.jpg" alt="Project 3 Image" class="project-image">
+
+<div class="showcase-card">
+  <div class="showcase-images row-layout">
+    <img src="/images/public_welfare1.jpg" alt="Public Welfare Lecture 1">
+    <img src="/images/public_welfare3.jpg" alt="Public Welfare Lecture 2">
   </div>
-  <p>I launched a public welfare campaign in Yulin City, Guangxi, to popularize AI knowledge, extending to high schools for public welfare lectures. The campaign primarily analyzed the impact of AI technology on the wealth gap and promoted the knowledge of using LLM.</p>
+  <div class="showcase-content">
+    <h2 class="showcase-title">
+      <a href="https://zhuanlan.zhihu.com/p/4651711566" target="_blank">Democratization of AI</a>
+    </h2>
+    <p class="showcase-desc">
+      I launched a public welfare campaign in Yulin City, Guangxi, to popularize AI knowledge, extending to high schools for public welfare lectures. The campaign primarily analyzed the impact of AI technology on the wealth gap and promoted the knowledge of using LLM.
+    </p>
+  </div>
 </div>
 
 # Miscellaneous
