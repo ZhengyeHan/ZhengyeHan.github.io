@@ -122,7 +122,7 @@ redirect_from:
 
 <div class="hero-section">
   <div class="hero-text">
-    <p>Hello, I am Zhengye Han (韩政业), a 1st year PhD student in <a href="https://www.nyu.edu/">New York University</a> and advised by Prof. <a href="https://scholar.google.com/citations?user=Qt2WDh0AAAAJ&hl=en">Quanyan Zhu</a>. I got my BS degree in Computer Science from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, where I study under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>. Under his guidance, I embarked on my academic journey through the study of game theory.</p>
+    <p>Hello, I am Zhengye Han (韩政业), a 1st year PhD student at <a href="https://www.nyu.edu/">New York University</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=Qt2WDh0AAAAJ&hl=en">Quanyan Zhu</a>. I received my BS degree in Computer Science from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, where I studied under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>. Under his guidance, I embarked on my academic journey through the study of game theory.</p>
   </div>
   <div class="hero-logo">
     <a href="https://www.nyu.edu/" target="_blank">
@@ -134,9 +134,9 @@ redirect_from:
 During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
 
 My research focuses on the following topics:
-* Multi-Agent Systems: Specifically focusing on the integration of game theory and reinforcement learning in multi-agent environments.
+* Multi-Agent Systems: Exploring the integration of game theory and Reinforcement Learning in multi-agent environments.
 * AI Safety: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
-* Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
+* Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and Safe Reinforcement Learning.
 
 # Internship
 For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han-a45624235/).
@@ -295,6 +295,6 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 </div>
 
 # Miscellaneous
-* Public Speaking: Member of the School Hosting Team.
+* Public Speaking: NYU PhD live! top 8 PhD speaker, member of the School Hosting Team in BJTU.
 * Hip-hop Dance: Champion of the Small Group Category in the Capital Colleges Dance Competition, Beijing.
 * Writing: Passionate about literature, I served as the Deputy Director of the Original Editorial Department for the school's official WeChat account, contributing to creative content and original articles.
