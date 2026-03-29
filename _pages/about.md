@@ -135,10 +135,11 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 * Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In <em>NeurIPS 2024 Datasets and Benchmarks Track</em> (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">[GitHub]</a>
 
 <style>
-  .showcase-card {
+  /* 全宽优化卡片样式定义 */
+  .fullwidth-card {
     display: flex;
-    flex-direction: row;
-    gap: 25px;
+    flex-direction: column; /* 强行恢复上下布局 */
+    gap: 15px;
     margin-bottom: 35px;
     padding: 20px;
     border-radius: 12px;
@@ -148,38 +149,36 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
   }
   
   /* 鼠标悬停时的浮动阴影效果 */
-  .showcase-card:hover {
+  .fullwidth-card:hover {
     transform: translateY(-3px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.06);
   }
 
-  .showcase-images {
-    flex: 0 0 320px; /* 固定图片区域的宽度 */
+  .fullwidth-images {
+    width: 100%; /* 图片容器全宽 */
     display: flex;
     flex-direction: column;
     gap: 12px;
   }
 
   /* 针对多张图片做横向排列适配 */
-  .showcase-images.row-layout {
+  .fullwidth-images.row-layout {
     flex-direction: row;
   }
   
-  .showcase-images img {
-    width: 100%;
+  .fullwidth-images img {
+    width: 100%; /* 图片占满容器宽度 */
     border-radius: 8px;
     object-fit: cover;
     border: 1px solid #eee;
   }
 
-  .showcase-content {
-    flex: 1;
+  .fullwidth-content {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
   }
 
-  .showcase-title {
+  .fullwidth-title {
     font-size: 1.25em;
     font-weight: 700;
     margin-top: 0;
@@ -187,48 +186,37 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
     line-height: 1.4;
   }
 
-  .showcase-title a {
+  .fullwidth-title a {
     color: #2c3e50; /* 更沉稳的标题颜色 */
     text-decoration: none;
     border-bottom: 2px solid transparent;
     transition: border-color 0.2s ease, color 0.2s ease;
   }
 
-  .showcase-title a:hover {
+  .fullwidth-title a:hover {
     color: #0366d6;
     border-bottom: 2px solid #0366d6;
   }
 
-  .showcase-desc {
+  .fullwidth-desc {
     font-size: 0.95em;
     color: #555;
     line-height: 1.6;
     margin: 0;
   }
-
-  /* 手机端自动转为上下布局 */
-  @media (max-width: 768px) {
-    .showcase-card {
-      flex-direction: column;
-      padding: 15px;
-    }
-    .showcase-images {
-      flex: 0 0 auto;
-    }
-  }
 </style>
 
 # Project
 
-<div class="showcase-card">
-  <div class="showcase-images">
+<div class="fullwidth-card">
+  <div class="fullwidth-images">
     <img src="/images/project1.png" alt="Auto-Bidding in Large-Scale Auctions">
   </div>
-  <div class="showcase-content">
-    <h2 class="showcase-title">
+  <div class="fullwidth-content">
+    <h2 class="fullwidth-title">
       <a href="https://github.com/alimama-tech/AuctionNet" target="_blank">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions</a>
     </h2>
-    <p class="showcase-desc">
+    <p class="fullwidth-desc">
       This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1" target="_blank">Shuai Dou</a> and <a href="https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en" target="_blank">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.
     </p>
   </div>
@@ -236,16 +224,16 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 
 # Public welfare
 
-<div class="showcase-card">
-  <div class="showcase-images row-layout">
+<div class="fullwidth-card">
+  <div class="fullwidth-images row-layout">
     <img src="/images/public_welfare1.jpg" alt="Public Welfare Lecture 1">
     <img src="/images/public_welfare3.jpg" alt="Public Welfare Lecture 2">
   </div>
-  <div class="showcase-content">
-    <h2 class="showcase-title">
+  <div class="fullwidth-content">
+    <h2 class="fullwidth-title">
       <a href="https://zhuanlan.zhihu.com/p/4651711566" target="_blank">Democratization of AI</a>
     </h2>
-    <p class="showcase-desc">
+    <p class="fullwidth-desc">
       I launched a public welfare campaign in Yulin City, Guangxi, to popularize AI knowledge, extending to high schools for public welfare lectures. The campaign primarily analyzed the impact of AI technology on the wealth gap and promoted the knowledge of using LLM.
     </p>
   </div>
