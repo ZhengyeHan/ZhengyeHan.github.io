@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Zhengye Han"
 title_separator          : "-"
 name                     : &name "Zhengye Han"
-description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description ""Personal website of Zhengye Han, a Ph.D. student at New York University (NYU) advised by Prof. Quanyan Zhu. Research focusing on Game Theory, Multi-Agent Systems, Reinforcement Learning, and AI Safety.""   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zhengyehan.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
