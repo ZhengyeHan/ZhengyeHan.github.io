@@ -71,7 +71,65 @@ redirect_from:
   }
 </style>
 
-Hello, I am Zhengye Han (韩政业), a 1st year PhD student in [New York university](https://www.nyu.edu/) and advised by Prof.[Quanyan Zhu](https://scholar.google.com/citations?user=Qt2WDh0AAAAJ&hl=en). I got my BS degree in Computer Science from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), where I study under the supervision of Professor [Zhigang Cao](http://en.sem.bjtu.edu.cn/show-910-467.html). Under his guidance, I embarked on my academic journey through the study of game theory.
+<style>
+  .hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 25px;
+    padding-top: 10px;
+  }
+  
+  .hero-text {
+    flex: 1;
+    font-size: 1.05em; /* 字体稍微放大一点点，更有气场 */
+    line-height: 1.6;
+  }
+  
+  .hero-text p {
+    margin: 0;
+  }
+
+  .hero-logo {
+    flex-shrink: 0;
+    width: 150px; 
+    transition: transform 0.3s ease;
+  }
+
+  .hero-logo:hover {
+    transform: scale(1.05); 
+  }
+
+  .hero-logo img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  @media (max-width: 768px) {
+    .hero-section {
+      flex-direction: column-reverse;
+      align-items: center;
+      text-align: center;
+    }
+    .hero-logo {
+      width: 120px;
+      margin-bottom: 20px;
+    }
+  }
+</style>
+
+<div class="hero-section">
+  <div class="hero-text">
+    <p>Hello, I am Zhengye Han (韩政业), a 1st year PhD student in <a href="https://www.nyu.edu/">New York University</a> and advised by Prof. <a href="https://scholar.google.com/citations?user=Qt2WDh0AAAAJ&hl=en">Quanyan Zhu</a>. I got my BS degree in Computer Science from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, where I study under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>. Under his guidance, I embarked on my academic journey through the study of game theory.</p>
+  </div>
+  <div class="hero-logo">
+    <a href="https://www.nyu.edu/" target="_blank">
+      <img src="/images/nyu_logo.png" alt="New York University Logo">
+    </a>
+  </div>
+</div>
 
 During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
 
