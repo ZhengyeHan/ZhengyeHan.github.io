@@ -1,7 +1,7 @@
 ---
 title: "Learning, Misspecification, and Cognitive Arbitrage in Linear-Quadratic Network Games"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-03-02-linear-quadratic-network
 date: 2026-03-02
 venue: 'Under review in International Symposium on Mathematical Theory of Networks and Systems'
