@@ -223,7 +223,7 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 
 # Public welfare
 <div class="fullwidth-card">
-  <div class="fullwidth-images row-layout">
+  <div class="fullwidth-images">
     <img src="/images/public_welfare1.jpg" alt="Public Welfare Lecture 1">
   </div>
   <div class="fullwidth-content">
