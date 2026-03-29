@@ -93,7 +93,7 @@ redirect_from:
 
   .hero-logo {
     flex-shrink: 0;
-    width: 150px; 
+    width: 100px; 
     transition: transform 0.3s ease;
   }
 
@@ -114,7 +114,7 @@ redirect_from:
       text-align: center;
     }
     .hero-logo {
-      width: 120px;
+      width: 90px;
       margin-bottom: 20px;
     }
   }
