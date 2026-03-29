@@ -139,7 +139,7 @@ My research focuses on the following topics:
 * Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
 
 # Internship
-For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengye-han%EF%BC%88%E9%9F%A9%E6%94%BF%E4%B8%9A%EF%BC%89-a45624235/?originalSubdomain=cn](https://www.linkedin.com/in/zhengye-han-a45624235/)).
+For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han-a45624235/).
 <div class="internship-cards">
   <div class="internship-item">
     <div class="logo-box">
