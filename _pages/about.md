@@ -129,7 +129,6 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 
 
 # Publications
-
 * <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. In <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026. <a href="https://arxiv.org/abs/2507.08207" style="color: blue;">[arXiv]</a>
 * Quanyan Zhu, <strong>Zhengye Han</strong>. Split-Merge Dynamics for Shapley-Fair Coalition Formation. Under review in <em>International Symposium on Mathematical Theory of Networks and Systems 2026</em>. <a href="https://arxiv.org/abs/2603.17153" style="color: blue;">[arXiv]</a>
 * Quanyan Zhu, <strong>Zhengye Han</strong>. Learning, Misspecification, and Cognitive Arbitrage in Linear-Quadratic Network Games. Under review in <em>International Symposium on Mathematical Theory of Networks and Systems 2026</em>. <a href="https://arxiv.org/abs/2603.17157" style="color: blue;">[arXiv]</a>
@@ -139,21 +138,12 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 
 # Project
 <div class="project">
-  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-2/">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
+  <h2><a href="https://github.com/alimama-tech/AuctionNet">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
   <div class="project-images">
     <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
   </div>
  <p>This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.</p>
 </div>
-
-<div class="project">
-  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-1/">Intelligent Recognition and Detection Platform for Muck</a></h2>
-  <div class="project-images">
-    <img src="/images/project2.jpg" alt="Project 2 Image" class="project-image">
-  </div>
-   <p>This project was a collaboration with the School of Civil Engineering, where we applied deep learning (DL) for image recognition and reinforcement learning (RL) for intelligent optimization. The platform addresses challenges in muck detection and improvement, leading to the creation of a fully functional machine prototype. Our work resulted in a national invention patent and three software copyrights.</p>
-</div>
-
 
 # Public welfare
 <div class="project">
@@ -166,8 +156,6 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 </div>
 
 # Miscellaneous
-* Hip-hop Dance: Champion of the Small Group Category in the Capital Colleges Dance Competition, Beijing.
-* Singing: Campus Musician on NetEase Cloud Music, Participated in a choir performance at a national event on Mango TV.
 * Public Speaking: Member of the School Hosting Team.
-* Psychology: Deputy Director of the Organizing Department in the School Psychology Association.
+* Hip-hop Dance: Champion of the Small Group Category in the Capital Colleges Dance Competition, Beijing.
 * Writing: Passionate about literature, I served as the Deputy Director of the Original Editorial Department for the school's official WeChat account, contributing to creative content and original articles.
