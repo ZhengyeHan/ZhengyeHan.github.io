@@ -1,56 +1,119 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hello, I am Zhengye Han (韩政业), an undergraduate student in the School of Computer Science & Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), where I study under the supervision of Professor [Zhigang Cao](http://en.sem.bjtu.edu.cn/show-910-467.html). Under his guidance, I embarked on my academic journey through the study of game theory.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on machine learning and game theory. This was an incredibly formative period in my academic growth. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to PhD candidate [Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab, which played a crucial role in my development. During my internship at [Alibaba Group](https://www.alibabagroup.com/), I had the pleasure of working with [Yeshu Li](https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en) and [Yusen Huo](https://ieeexplore.ieee.org/author/37088549571). I truly appreciate the insightful advice they provided, particularly regarding academic pursuits and graduate school applications. Their support was instrumental in helping me navigate both my professional and educational pathways during this time. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+### Research Interests
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research focuses on the intersection of game theory and machine learning, with a particular emphasis on the following topics:
+* Reinforcement Learning. Including auto-bidding in online advertising, sequential decision-making, and safe reinforcement learning.
+* Game theory. With a focus on multi-agent scenarios.
+* Deep learning. Including computer vision and its applications combined with reinforcement learning.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Additionally, I believe that using the knowledge I've acquired to contribute to the development of underprivileged regions, especially in the field of education, is my lifelong purpose. I am willing to promoting equal opportunities and reducing the wealth gap through educational advancements. My personal motto is a quote from Harvard President Lawrence Bacow:
+*"Recognize the role that good fortune and circumstance have played in your life, and please work to extend opportunity to others just as it has been extended to you."*
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Publication
+* <strong>Zhengye Han</strong>, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. Action Sequence Planner: An Alternative for Offline Reinforcement Learning. In ICLR 2025 Conference Submission.
+*  Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In NeurIPS 2024 Datasets and Benchmarks Track (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">GitHub</a>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Project
+<div class="project">
+  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-2/">NeurIPS 2024 Competition Track: Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games</a></h2>
+  <div class="project-images">
+    <img src="/images/project1.png" alt="Project 1 Image" class="project-image">
+  </div>
+ <p>This competition was hosted by the PKU-Alimama Artificial Intelligence Innovation Joint Lab, a collaboration between Alibaba Group and Peking University. As a member of the lab, I was actively involved in organizing the competition. I worked closely with <a href="https://openreview.net/profile?id=~Shuai_Dou1">Shuai Dou</a> and <a href="https://scholar.google.com/citations?user=PYXmSwkAAAAJ&hl=en">Yeshu Li</a> to develop the agents for the competition system, focusing on creating robust models for decision-making in large-scale, competitive auctions.</p>
+</div>
 
-**Markdown generator**
+<div class="project">
+  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-1/">Intelligent Recognition and Detection Platform for Muck</a></h2>
+  <div class="project-images">
+    <img src="/images/project2.jpg" alt="Project 2 Image" class="project-image">
+  </div>
+   <p>This project was a collaboration with the School of Civil Engineering, where we applied deep learning (DL) for image recognition and reinforcement learning (RL) for intelligent optimization. The platform addresses challenges in muck detection and improvement, leading to the creation of a fully functional machine prototype. Our work resulted in a national invention patent and three software copyrights.</p>
+</div>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+<div class="project">
+  <h2><a href="https://zhengyehan.github.io/portfolio/portfolio-0/">Large Language Models in Iterated Prisoner's Dilemma: Impact of High-level behavior prompter on Cooperation</a></h2>
+  <div class="project-images">
+    <img src="/images/bs.png" alt="Project 3 Image" class="project-image">
+  </div>
+   <p>This project, conducted under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>, explores the intersection of LLMs and game theory, it formed my undergraduate thesis. I analyzed the behavior of LLMs in the Iterated Prisoner's Dilemma and developed a high-level cueing algorithm to increase their cooperation rates in this game theory scenario.</p>
+</div>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+# Internship
+I have extensive experience applying machine learning techniques in both academia and industry. For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye-han%EF%BC%88%E9%9F%A9%E6%94%BF%E4%B8%9A%EF%BC%89-a45624235/?originalSubdomain=cn).
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<table class="internship-table">
+  <thead>
+    <tr>
+      <th>Company Name</th>
+      <th>Main Work Keywords</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="/images/alibaba_logo.png" alt="Alibaba Logo" class="company-logo">
+        Alibaba Group
+      </td>
+      <td>Reinforcement Learning, Auto-bidding Algorithm</td>
+      <td>03/28/2024 - 12/17/2024</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/images/pku_logo.png" alt="pku Logo" class="company-logo">
+        Center on Frontiers of Computing Studies at Peking University
+      </td>
+      <td>Machine learning and game theory</td>
+      <td>02/20/2023 - 12/20/2024</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/images/meituan_logo.png" alt="meituan Logo" class="company-logo">
+        Meituan
+      </td>
+      <td>LLM for recruitment department</td>
+      <td>10/17/2023 - 1/27/2024</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/images/BOC_logo.png" alt="BOC Logo" class="company-logo">
+        BOC International (China) Co., Ltd
+      </td>
+      <td>Quantization strategy、industry research</td>
+      <td>06/28/2022 - 09/18/2022</td>
+    </tr>
+  </tbody>
+</table>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+# Public welfare
+
+<div class="project">
+  <h2><a href="https://zhuanlan.zhihu.com/p/4651711566">Democratization of AI</a></h2>
+  <div class="project-images">
+    <img src="/images/public_welfare1.jpg" alt="Project 1 Image" class="project-image">
+    <img src="/images/public_welfare3.jpg" alt="Project 3 Image" class="project-image">
+  </div>
+  <p>I launched a public welfare campaign in Yulin City, Guangxi, to popularize AI knowledge, extending to high schools for public welfare lectures. The campaign primarily analyzed the impact of AI technology on the wealth gap and promoted the knowledge of using LLM.</p>
+</div>
+
+# Miscellaneous
+* Hip-hop Dance: Champion of the Small Group Category in the Capital Colleges Dance Competition, Beijing.
+* Singing: Campus Musician on NetEase Cloud Music, Participated in a choir performance at a national event on Mango TV.
+* Public Speaking: Member of the School Hosting Team.
+* Psychology: Deputy Director of the Organizing Department in the School Psychology Association.
+* Writing: Passionate about literature, I served as the Deputy Director of the Original Editorial Department for the school's official WeChat account, contributing to creative content and original articles.
