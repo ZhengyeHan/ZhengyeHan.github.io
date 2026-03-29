@@ -139,24 +139,19 @@ My research focuses on the following topics:
 * Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and Safe Reinforcement Learning.
 
 <h3>🔥 News</h3>
-
 <ul style="list-style-type: none; padding: 0; margin: 0;">
-  
   <li style="margin-bottom: 16px; display: flex; align-items: flex-start;">
     <span style="background-color: #f1f3f5; color: #495057; padding: 3px 8px; border-radius: 4px; font-weight: 600; font-size: 0.85em; margin-right: 15px; white-space: nowrap; min-width: 80px; text-align: center;">Mar 2026</span>
     <span style="line-height: 1.5; color: #333;">🎉 Our paper <i>"Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking"</i> has been accepted by the ICLR 2026 Workshop on AI for Mechanism Design and Strategic Decision Making!</span>
   </li>
-
   <li style="margin-bottom: 16px; display: flex; align-items: flex-start;">
     <span style="background-color: #f1f3f5; color: #495057; padding: 3px 8px; border-radius: 4px; font-weight: 600; font-size: 0.85em; margin-right: 15px; white-space: nowrap; min-width: 80px; text-align: center;">Sep 2025</span>
     <span style="line-height: 1.5; color: #333;">🗽 I officially started my Ph.D. journey at the ECE Department of New York University (NYU)!</span>
   </li>
-
   <li style="margin-bottom: 16px; display: flex; align-items: flex-start;">
     <span style="background-color: #f1f3f5; color: #495057; padding: 3px 8px; border-radius: 4px; font-weight: 600; font-size: 0.85em; margin-right: 15px; white-space: nowrap; min-width: 80px; text-align: center;">Jun 2024</span>
-    <span style="line-height: 1.5; color: #333;">🏆 Co-organized the NeurIPS 2024 Competition: <i>"Auto-Bidding in Large-Scale Auctions"</i> and open-sourced <a href="#" style="font-weight: 600;">AuctionNet</a> as a core code contributor.</span>
+    <span style="line-height: 1.5; color: #333;">🏆 Co-organized the NeurIPS 2024 Competition: <i>"Auto-Bidding in Large-Scale Auctions"</i> and open-sourced <a href="https://github.com/alimama-tech/AuctionNet" style="font-weight: 600;">AuctionNet</a> as a core code contributor.</span>
   </li>
-
 </ul>
 
 # Internship
