@@ -207,7 +207,6 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 </style>
 
 # Project
-
 <div class="fullwidth-card">
   <div class="fullwidth-images">
     <img src="/images/project1.png" alt="Auto-Bidding in Large-Scale Auctions">
@@ -223,7 +222,6 @@ For more details, please check my [LinkedIn]([https://www.linkedin.com/in/zhengy
 </div>
 
 # Public welfare
-
 <div class="fullwidth-card">
   <div class="fullwidth-images row-layout">
     <img src="/images/public_welfare1.jpg" alt="Public Welfare Lecture 1">
