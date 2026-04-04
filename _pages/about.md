@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Zhengye Han"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 header:
-  overlay_image: "/images/theater_talk_bg2.jpg"
+  overlay_image: "https://zhengyehan.github.io/images/theater_talk_bg.jpg"
   overlay_filter: 0.4
 ---
 
