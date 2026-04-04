@@ -4,14 +4,43 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 header:
-  # 使用这个 header 功能，图片会自动变成全屏宽度
   overlay_image: "https://zhengyehan.github.io/images/theater_talk_bg.jpg"
-  # 0.4 代表 40% 的深色滤镜，能让白色的标题在图片上更清晰、更有质感
-  overlay_filter: 0.4 
+  overlay_filter: 0.4
 ---
 
+<style>
+  /* === 终极暴力破解：强制撑开顶部封面的高度 === */
+  .page__hero--overlay {
+    /* 85vh 意思是占据屏幕 85% 的高度，留一点底边让人知道可以往下滑 */
+    min-height: 85vh !important; 
+    
+    /* 确保图片自适应铺满且居中，无论屏幕多大都不会变形 */
+    background-size: cover !important;
+    background-position: center !important;
+    
+    /* 让标题在画面正中间，更有压迫感 */
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  /* 让悬浮在大图上的标题变大一点，增加电影开场感 */
+  .page__title {
+    font-size: 3.5em !important;
+    text-align: center;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
+    margin-bottom: 0 !important;
+  }
+  
+  /* 给下面的列表加一点顶边距，不要和封面贴得太紧 */
+  #main {
+    margin-top: 2em;
+  }
+</style>
+
+
 {% if site.talkmap_link == true %}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration:underline; text-align:center;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
 {% for post in site.talks reversed %}
