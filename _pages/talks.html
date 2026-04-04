@@ -3,35 +3,15 @@ layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
+header:
+  # 使用这个 header 功能，图片会自动变成全屏宽度
+  overlay_image: "/images/theater_talk_bg.jpg"
+  # 0.4 代表 40% 的深色滤镜，能让白色的标题在图片上更清晰、更有质感
+  overlay_filter: 0.4 
 ---
 
-<style>
-  /* 咱们把之前那些复杂的透明背景和遮罩全去掉了，恢复干净的底色 */
-  
-  /* === 新增：专属顶部封面大图 === */
-  .hero-banner {
-    width: 100%;
-    /* 核心设置：75vh 意味着图片会占据屏幕 75% 的高度 */
-    /* 这样不仅几乎满屏，还能在最下方稍微露出一线文字，自然地引导访客往下滑动 */
-    height: 75vh; 
-    min-height: 400px; /* 防止在极小屏幕上缩得太小 */
-    
-    background-image: url('/images/theater_talk_bg.jpg');
-    background-size: cover;
-    background-position: center; /* 确保画面的视觉中心（也就是你）始终在中间 */
-    
-    border-radius: 12px; /* 稍微加一点圆角，更现代 */
-    margin-bottom: 2.5em; /* 把图片和下面的正文内容拉开呼吸感 */
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); /* 底部加一点高级的阴影 */
-  }
-</style>
-
-<div class="hero-banner"></div>
-
 {% if site.talkmap_link == true %}
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
 {% endif %}
 
 {% for post in site.talks reversed %}
