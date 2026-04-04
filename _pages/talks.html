@@ -6,77 +6,31 @@ author_profile: true
 ---
 
 <style>
-  /* === 1. 终极剧院背景图：优化遮罩层色调为深紫，更显高级 === */
-  body {
-    /* 你的图片网址，这一步我们坚决不动，因为它是对的 */
-    background-image: url('/images/theater_talk_bg.jpg') !important;
-    background-attachment: fixed !important;
-    background-size: cover !important;
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-    
-    /* 核心改变：把原本沉闷的黑色遮罩，换成一个带点深紫色的遮罩，呼应 NYU 主题色 */
-    background-color: rgba(87, 6, 140, 0.4) !important; /* 40% 不透明度的深紫 */
-    background-blend-mode: darken !important;
-  }
-
-  /* === 2. 右侧 Talk 列表容器：终极“玻璃拟态” (Glassmorphism) 大修 === */
-  #main .archive {
-    /* 核心透明度：大幅降低白色底板的不透明度 (只留 20%)，实现真正的“透明感” */
-    background-color: rgba(255, 255, 255, 0.2) !important;
-    
-    /* 核心磨砂虚化：这是高级感的关键 */
-    backdrop-filter: blur(15px) !important; /* 显著虚化背景图，防止杂乱 */
-    -webkit-backdrop-filter: blur(15px); /* 兼容 Safari */
-    
-    /* 优化边缘：去除硬边框，增加一个极其精致的、几乎隐形的浅紫按钮 */
-    border-radius: 16px !important;
-    border: 1px solid rgba(87, 6, 140, 0.2) !important; /* 极淡的紫色边框 */
-    
-    /* 优化排版与阴影：更柔软的阴影，让卡片看起来更像“漂浮”在背景上 */
-    padding: 3em !important;
-    box-shadow: 0 10px 32px 0 rgba(31, 38, 135, 0.15) !important;
-    margin-top: -1em; /* 稍微向上移动一点，让布局更紧凑 */
-  }
-
-  /* === 3. 左侧个人信息栏：统一视觉风格，同样实现玻璃拟态 === */
-  .sidebar {
-    background-color: rgba(255, 255, 255, 0.2) !important;
-    backdrop-filter: blur(15px) !important;
-    -webkit-backdrop-filter: blur(15px);
-    border-radius: 16px !important;
-    border: 1px solid rgba(87, 6, 140, 0.2) !important;
-    padding: 2em !important;
-    box-shadow: 0 10px 32px 0 rgba(31, 38, 135, 0.1) !important;
-  }
-
-  /* === 4. 特定元素色调微调：注入 NYU 灵魂紫 === */
+  /* 咱们把之前那些复杂的透明背景和遮罩全去掉了，恢复干净的底色 */
   
-  /* Talks 标题 */
-  #main .archive h2.archive__item-title {
-    color: #4a0478 !important; /* 更柔和的深紫，代替原本的亮蓝 */
-  }
-  #main .archive h2.archive__item-title a:hover {
-    color: #57068c !important; /* 悬浮时变成标准 NYU 紫 */
-  }
-  
-  /* Talkmap 链接样式 */
-  #main .archive a.talkmap-link {
-    color: #57068c !important;
-    font-weight: 600;
-  }
-  
-  /* 优化 YouTube 视频框：添加一个淡淡的紫金色阴影，显得更尊贵 */
-  #main .archive iframe {
-    border: 2px solid rgba(87, 6, 140, 0.3) !important;
-    border-radius: 8px;
-    box-shadow: 0 5px 20px rgba(87, 6, 140, 0.2) !important;
+  /* === 新增：专属顶部封面大图 === */
+  .hero-banner {
+    width: 100%;
+    /* 核心设置：75vh 意味着图片会占据屏幕 75% 的高度 */
+    /* 这样不仅几乎满屏，还能在最下方稍微露出一线文字，自然地引导访客往下滑动 */
+    height: 75vh; 
+    min-height: 400px; /* 防止在极小屏幕上缩得太小 */
+    
+    background-image: url('/images/theater_talk_bg.jpg');
+    background-size: cover;
+    background-position: center; /* 确保画面的视觉中心（也就是你）始终在中间 */
+    
+    border-radius: 12px; /* 稍微加一点圆角，更现代 */
+    margin-bottom: 2.5em; /* 把图片和下面的正文内容拉开呼吸感 */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); /* 底部加一点高级的阴影 */
   }
 </style>
 
+<div class="hero-banner"></div>
+
 {% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html" class="talkmap-link">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
 
