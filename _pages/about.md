@@ -6,9 +6,36 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: "/images/theater_talk_bg2.jpg"
+  overlay_filter: 0.4
 ---
 
 <style>
+  /* === 强制撑开主页顶部封面的高度，保持震撼大片感 === */
+  .page__hero--overlay {
+    min-height: 85vh !important; 
+    background-size: cover !important;
+    background-position: center !important;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .page__title {
+    font-size: 3.5em !important;
+    text-align: center;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
+    margin-bottom: 0 !important;
+  }
+  
+  #main {
+    margin-top: 2em;
+  }
+</style>
+
+<style>
+  /* 以下是你原本的主页 CSS，完全保留 */
   .internship-cards {
     width: 100%;
     margin-top: 20px;
@@ -25,13 +52,11 @@ redirect_from:
     transition: box-shadow 0.2s ease, transform 0.2s ease; 
   }
 
-
   .internship-item:hover {
     box-shadow: 0 5px 15px rgba(0,0,0,0.05);
     transform: translateY(-2px);
   }
 
-  
   .logo-box {
     width: 100px; 
     height: 100px; 
@@ -43,18 +68,15 @@ redirect_from:
     overflow: hidden; 
   }
 
-
   .item-logo {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain; 
   }
 
-
   .content-box {
     flex-grow: 1; 
   }
-
 
   .org-title {
     font-size: 1.3rem; 
@@ -62,7 +84,6 @@ redirect_from:
     color: #222;
     margin-bottom: 5px;
   }
-
 
   .duration-text {
     font-size: 1rem;
@@ -83,7 +104,7 @@ redirect_from:
   
   .hero-text {
     flex: 1;
-    font-size: 1.05em; /* 字体稍微放大一点点，更有气场 */
+    font-size: 1.05em;
     line-height: 1.6;
   }
   
@@ -214,7 +235,7 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
   /* 全宽优化卡片样式定义 */
   .fullwidth-card {
     display: flex;
-    flex-direction: column; /* 强行恢复上下布局 */
+    flex-direction: column; 
     gap: 15px;
     margin-bottom: 35px;
     padding: 20px;
@@ -224,26 +245,24 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
     transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
   
-  /* 鼠标悬停时的浮动阴影效果 */
   .fullwidth-card:hover {
     transform: translateY(-3px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.06);
   }
 
   .fullwidth-images {
-    width: 100%; /* 图片容器全宽 */
+    width: 100%; 
     display: flex;
     flex-direction: column;
     gap: 12px;
   }
 
-  /* 针对多张图片做横向排列适配 */
   .fullwidth-images.row-layout {
     flex-direction: row;
   }
   
   .fullwidth-images img {
-    width: 100%; /* 图片占满容器宽度 */
+    width: 100%; 
     border-radius: 8px;
     object-fit: cover;
     border: 1px solid #eee;
@@ -263,7 +282,7 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
   }
 
   .fullwidth-title a {
-    color: #2c3e50; /* 更沉稳的标题颜色 */
+    color: #2c3e50; 
     text-decoration: none;
     border-bottom: 2px solid transparent;
     transition: border-color 0.2s ease, color 0.2s ease;
