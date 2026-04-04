@@ -6,8 +6,16 @@ permalink: /talks/2026-03-28-gamenets-presentation
 venue: "15th EAI International Conference on Game Theory for Networks (GameNets)"
 date: 2026-03-28
 location: "Virtual"
-# 👇 如果你在这里加了 header 背景图的代码，请继续保留！
 ---
+
+<style>
+  /* 强制覆盖主题的默认标题颜色，CSS 优先级拉满 */
+  html body #main .page__title, 
+  html body h1.page__title,
+  html body h1 {
+    color: #2c3e50 !important;
+  }
+</style>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); margin-bottom: 30px;">
 <iframe src="https://www.youtube.com/embed/ncUJWE4wtkk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
@@ -17,38 +25,4 @@ We study sequential decision-making when the agent's internal model class is mis
 
 <br>
 
-<a href="https://arxiv.org/abs/2603.13641" target="_blank" class="paper-btn">🔗 Read the full paper on arXiv</a>
-
-<style>
-/* 将 CSS 沉底，完美避开 Markdown 引擎的解析冲突 */
-h1, .page__title, .archive__item-title, .archive__item-title a {
-  color: #2c3e50 !important;
-  text-decoration: none !important;
-  transition: color 0.2s ease;
-}
-.archive__item-title a:hover, h1 a:hover, .page__title a:hover {
-  color: #57068c !important; 
-}
-
-.paper-btn {
-  display: inline-flex;
-  align-items: center;
-  margin-top: 15px;
-  padding: 8px 18px;
-  background-color: #f1f3f5;
-  color: #333 !important;
-  text-decoration: none;
-  border-radius: 20px;
-  font-size: 0.95em;
-  font-weight: 600;
-  transition: all 0.2s ease;
-  border: 1px solid #e9ecef;
-}
-.paper-btn:hover {
-  background-color: #57068c;
-  color: #fff !important;
-  border-color: #57068c;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 10px rgba(87, 6, 140, 0.2);
-}
-</style>
+<a href="https://arxiv.org/abs/2603.13641" target="_blank" style="display: inline-flex; align-items: center; margin-top: 15px; padding: 8px 18px; background-color: #f1f3f5; color: #333 !important; text-decoration: none; border-radius: 20px; font-size: 0.95em; font-weight: 600; border: 1px solid #e9ecef; transition: all 0.2s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.05);" onmouseover="this.style.backgroundColor='#57068c'; this.style.color='#fff'; this.style.borderColor='#57068c'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='#f1f3f5'; this.style.color='#333'; this.style.borderColor='#e9ecef'; this.style.transform='translateY(0)';">🔗 Read the full paper on arXiv</a>
