@@ -154,7 +154,7 @@ During my undergraduate studies, I had the privilege to join the Center on Front
 
 My research focuses on the following topics:
 * Multi-Agent Systems: Exploring the integration of game theory and Reinforcement Learning in multi-agent environments.
-* AI Safety: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
+* AI Security: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
 * Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and Safe Reinforcement Learning.
 
 <h3>🔥 News</h3>
