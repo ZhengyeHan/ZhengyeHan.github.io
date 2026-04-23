@@ -160,6 +160,10 @@ My research focuses on the following topics:
 <h3>🔥 News</h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 16px; display: flex; align-items: flex-start;">
+  <span style="background-color: #f1f3f5; color: #495057; padding: 3px 8px; border-radius: 4px; font-weight: 600; font-size: 0.85em; margin-right: 15px; white-space: nowrap; min-width: 80px; text-align: center;">Mar 2026</span>
+  <span style="line-height: 1.5; color: #333;">🎤 On Mar. 31, 2026, I was selected as a Top 8 finalist in NYU PhD Live!, becoming the only first-year Ph.D. student among the finalists. <a href="https://vimeo.com/1184947409/61abe3bdcc?fl=pl&fe=sh" target="_blank" style="font-weight: 600;">Video</a>.</span>
+  </li>
+  <li style="margin-bottom: 16px; display: flex; align-items: flex-start;">
     <span style="background-color: #f1f3f5; color: #495057; padding: 3px 8px; border-radius: 4px; font-weight: 600; font-size: 0.85em; margin-right: 15px; white-space: nowrap; min-width: 80px; text-align: center;">Mar 2026</span>
     <span style="line-height: 1.5; color: #333;">🎉 Our paper <i>"Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking"</i> has been accepted by the ICLR 2026 Workshop on AI for Mechanism Design and Strategic Decision Making!</span>
   </li>
