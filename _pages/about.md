@@ -10,7 +10,7 @@ header:
 ---
 
 <style>
-  /* === 强制撑开主页顶部封面的高度，保持震撼大片感 === */
+
   .page__hero--overlay {
     min-height: 85vh !important; 
     background-size: cover !important;
@@ -33,7 +33,7 @@ header:
 </style>
 
 <style>
-  /* 以下是你原本的主页 CSS，完全保留 */
+
   .internship-cards {
     width: 100%;
     margin-top: 20px;
@@ -224,6 +224,7 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 
 
 # Publications
+* <strong>Zhengye Han</strong>, Quanyan Zhu. Vicarious Learning under Joint Latent Uncertainty: Coupled Inference, Replay Stopping, and Wrong-Route Fixation in Adversarial Navigation. Under review in <em>International Conference on Machine Learning (ICML) 2026 Workshop: Epistemic Intelligence in Machine Learning</em>. <a href="https://openreview.net/forum?id=3lWCfD9xRf&noteId=3lWCfD9xRf" style="color: blue;">[OpenReview]</a>
 * Quanyan Zhu, <strong>Zhengye Han</strong>. Performative Scenario Optimization. Under review in <em>IEEE Conference on Decision and Control (CDC) 2026</em>. <a href="https://arxiv.org/abs/2603.29982" style="color: blue;">[arXiv]</a>
 * <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. Published in <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026. <a href="https://arxiv.org/abs/2507.08207" style="color: blue;">[arXiv]</a>
 * Quanyan Zhu, <strong>Zhengye Han</strong>. Split-Merge Dynamics for Shapley-Fair Coalition Formation. Published in <em>International Symposium on Mathematical Theory of Networks and Systems 2026</em>. <a href="https://arxiv.org/abs/2603.17153" style="color: blue;">[arXiv]</a>
