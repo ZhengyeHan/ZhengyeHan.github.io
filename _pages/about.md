@@ -235,7 +235,6 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 
 
 <style>
-  /* 全宽优化卡片样式定义 */
   .fullwidth-card {
     display: flex;
     flex-direction: column; 
