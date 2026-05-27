@@ -224,7 +224,7 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 
 
 # Publications
-* <strong>Zhengye Han</strong>, Quanyan Zhu. RCSP: Risk-Sensitive Conjectural Scenario Planning for Safe Dynamic Robot Navigation. Under review in <em>2026 Conference on Robot Learning (coRL). <a href="https://arxiv.org/abs/2605.26348" style="color: red;">[arxiv]</a>
+* <strong>Zhengye Han</strong>, Quanyan Zhu. RCSP: Risk-Sensitive Conjectural Scenario Planning for Safe Dynamic Robot Navigation. Under review in <em>2026 Conference on Robot Learning (coRL). <a href="https://arxiv.org/abs/2605.26348" style="color: blue;">[arxiv]</a>
 * <strong>Zhengye Han</strong>, Quanyan Zhu. Vicarious Learning under Joint Latent Uncertainty: Coupled Inference, Replay Stopping, and Wrong-Route Fixation in Adversarial Navigation. Under review in <em>International Conference on Machine Learning (ICML) 2026 Workshop: Epistemic Intelligence in Machine Learning</em>. <a href="https://openreview.net/forum?id=3lWCfD9xRf&noteId=3lWCfD9xRf" style="color: blue;">[OpenReview]</a>
 * Quanyan Zhu, <strong>Zhengye Han</strong>. Performative Scenario Optimization. Under review in <em>IEEE Conference on Decision and Control (CDC) 2026</em>. <a href="https://arxiv.org/abs/2603.29982" style="color: blue;">[arXiv]</a>
 * <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. Published in <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026. <a href="https://arxiv.org/abs/2507.08207" style="color: blue;">[arXiv]</a>
