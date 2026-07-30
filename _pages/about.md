@@ -141,7 +141,7 @@ header:
 
 <div class="hero-section">
   <div class="hero-text">
-    <p>Hello, I am Zhengye Han (韩政业), a 1st year PhD student at <a href="https://www.nyu.edu/">New York University</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=Qt2WDh0AAAAJ&hl=en">Quanyan Zhu</a>. I received my BS degree in Computer Science from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, where I studied under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>. Under his guidance, I embarked on my academic journey through the study of game theory.</p>
+    <p>Hello, I am Zhengye Han (韩政业), a 1st year PhD student at <a href="https://www.nyu.edu/">New York University</a>. I received my BS degree in Computer Science from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, where I studied under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>. Under his guidance, I embarked on my academic journey through the study of game theory.</p>
   </div>
   <div class="hero-logo">
     <a href="https://www.nyu.edu/" target="_blank">
