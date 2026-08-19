@@ -223,15 +223,16 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 </div>
 
 
-# Publications
-* <strong>Zhengye Han</strong>, Quanyan Zhu. RCSP: Risk-Sensitive Conjectural Scenario Planning for Safe Dynamic Robot Navigation. Under review in <em>2026 Conference on Robot Learning (coRL). <a href="https://arxiv.org/abs/2605.26348" style="color: blue;">[arxiv]</a>
-* <strong>Zhengye Han</strong>, Quanyan Zhu. Vicarious Learning under Joint Latent Uncertainty: Coupled Inference, Replay Stopping, and Wrong-Route Fixation in Adversarial Navigation. Under review in <em>International Conference on Machine Learning (ICML) 2026 Workshop: Epistemic Intelligence in Machine Learning</em>. <a href="https://openreview.net/forum?id=3lWCfD9xRf&noteId=3lWCfD9xRf" style="color: blue;">[OpenReview]</a>
-* Quanyan Zhu, <strong>Zhengye Han</strong>. Performative Scenario Optimization. Published in <em>IEEE Conference on Decision and Control (CDC) 2026</em>. <a href="https://arxiv.org/abs/2603.29982" style="color: blue;">[arXiv]</a>
+# Selected Publications
+
 * <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. Published in <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026. <a href="https://arxiv.org/abs/2507.08207" style="color: blue;">[arXiv]</a>
-* Quanyan Zhu, <strong>Zhengye Han</strong>. Split-Merge Dynamics for Shapley-Fair Coalition Formation. Published in <em>International Symposium on Mathematical Theory of Networks and Systems 2026</em>. <a href="https://arxiv.org/abs/2603.17153" style="color: blue;">[arXiv]</a>
-* Quanyan Zhu, <strong>Zhengye Han</strong>. Learning, Misspecification, and Cognitive Arbitrage in Linear-Quadratic Network Games. Published in <em>International Symposium on Mathematical Theory of Networks and Systems 2026</em>. <a href="https://arxiv.org/abs/2603.17157" style="color: blue;">[arXiv]</a>
-* Quanyan Zhu, <strong>Zhengye Han</strong>. A Mathematical Programming Approach to Computing and Learning Berk–Nash Equilibria in Infinite-Horizon MDPs. Published in <em>14th EAI International Conference on Game Theory for Networks (GameNets)</em>, 2026. <a href="https://arxiv.org/abs/2603.13641" style="color: blue;">[arXiv]</a>
-* <strong>Zhengye Han</strong>, Yusen Huo, Zhijian Duan, Tianyu Wang, Yeshu Li, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. Action Sequence Planner: An Alternative for Offline Reinforcement Learning. Under review in <em>ICLR 2025</em>. <a href="https://openreview.net/forum?id=MtjPIDWyWK" style="color: blue;">[OpenReview]</a>
+
+* <strong>Zhengye Han</strong>. Safe Preference Identification through Strategic Interaction. <em>Preprint</em>, 2026.
+  
+* <strong>Zhengye Han</strong>. When Do Institutions Beat Intelligence? <em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2608.11357" style="color: blue;">[arXiv]</a>
+
+* <strong>Zhengye Han</strong>, Quanyan Zhu. RCSP: Risk-Sensitive Conjectural Scenario Planning for Safe Dynamic Robot Navigation. Under review in <em>2026 Conference on Robot Learning (coRL). <a href="https://arxiv.org/abs/2605.26348" style="color: blue;">[arxiv]</a>
+* Quanyan Zhu, <strong>Zhengye Han</strong>. Performative Scenario Optimization. Published in <em>IEEE Conference on Decision and Control (CDC) 2026</em>. <a href="https://arxiv.org/abs/2603.29982" style="color: blue;">[arXiv]</a>
 * Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In <em>NeurIPS 2024 Datasets and Benchmarks Track</em> (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">[GitHub]</a>
 
 
