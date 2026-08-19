@@ -226,11 +226,8 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 # Selected Publications
 
 * <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. Published in <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026. <a href="https://arxiv.org/abs/2507.08207" style="color: blue;">[arXiv]</a>
-
 * <strong>Zhengye Han</strong>. Safe Preference Identification through Strategic Interaction. <em>Preprint</em>, 2026.
-  
 * <strong>Zhengye Han</strong>. When Do Institutions Beat Intelligence? <em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2608.11357" style="color: blue;">[arXiv]</a>
-
 * <strong>Zhengye Han</strong>, Quanyan Zhu. RCSP: Risk-Sensitive Conjectural Scenario Planning for Safe Dynamic Robot Navigation. Under review in <em>2026 Conference on Robot Learning (coRL). <a href="https://arxiv.org/abs/2605.26348" style="color: blue;">[arxiv]</a>
 * Quanyan Zhu, <strong>Zhengye Han</strong>. Performative Scenario Optimization. Published in <em>IEEE Conference on Decision and Control (CDC) 2026</em>. <a href="https://arxiv.org/abs/2603.29982" style="color: blue;">[arXiv]</a>
 * Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In <em>NeurIPS 2024 Datasets and Benchmarks Track</em> (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">[GitHub]</a>
