@@ -141,7 +141,7 @@ header:
 
 <div class="hero-section">
   <div class="hero-text">
-    <p>Hello, I am Zhengye Han (韩政业), a 1st year PhD student at <a href="https://www.nyu.edu/">New York University</a>. I received my BS degree in Computer Science from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, where I studied under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>. Under his guidance, I embarked on my academic journey through the study of game theory.</p>
+    <p>Hello, I am Zhengye Han (韩政业), a 2st year PhD student at <a href="https://www.nyu.edu/">New York University</a>. I received my BS degree in Computer Science from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, where I studied under the supervision of Professor <a href="http://en.sem.bjtu.edu.cn/show-910-467.html">Zhigang Cao</a>. Under his guidance, I embarked on my academic journey through the study of game theory.</p>
   </div>
   <div class="hero-logo">
     <a href="https://www.nyu.edu/" target="_blank">
@@ -153,9 +153,8 @@ header:
 During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to Dr.[Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
 
 My research focuses on the following topics:
-* Multi-Agent Systems: Exploring the integration of game theory and Reinforcement Learning in multi-agent environments.
-* AI Security: With a special emphasis on the safety of Large Language Models, including topics such as LLM jailbreaking.
-* Reinforcement Learning: Including auto-bidding in online advertising, sequential decision-making, and Safe Reinforcement Learning.
+* Multi-Agent Systems: Understanding strategic interaction, coordination, and institutional mechanisms in systems of intelligent agents.
+* Reinforcement Learning and Sequential Decision-Making: Developing learning and planning methods for complex, interactive environments.
 
 <h3>🔥 News</h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
@@ -225,9 +224,9 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 
 # Selected Publications
 
-* <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. Published in <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026. <a href="https://arxiv.org/abs/2507.08207" style="color: blue;">[arXiv]</a> A substantially extended journal version is currently under review at <em>IEEE Transactions on Information Forensics and Security (TIFS)</em>.
-* <strong>Zhengye Han</strong>. Safe Preference Identification through Strategic Interaction. Under review in <em>2027  International Conference on Learning Representations (ICLR).
 * <strong>Zhengye Han</strong>. When Do Institutions Beat Intelligence? <em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2608.11357" style="color: blue;">[arXiv]</a>
+* <strong>Zhengye Han</strong>. Safe Preference Identification through Strategic Interaction. Under review in <em>2027  International Conference on Learning Representations (ICLR).
+* <strong>Zhengye Han</strong>, Quanyan Zhu. Toward a Dynamic Stackelberg Game-Theoretic Framework for Agentic AI Defense Against LLM Jailbreaking. Published in <em>International Conference on Learning Representations (ICLR) AI for Mechanism Design Workshop</em>, 2026. <a href="https://arxiv.org/abs/2507.08207" style="color: blue;">[arXiv]</a> A substantially extended journal version is currently under review at <em>IEEE Transactions on Information Forensics and Security (TIFS)</em>.
 * <strong>Zhengye Han</strong>, Quanyan Zhu. RCSP: Risk-Sensitive Conjectural Scenario Planning for Safe Dynamic Robot Navigation. Under review in <em>2026 Conference on Robot Learning (coRL). <a href="https://arxiv.org/abs/2605.26348" style="color: blue;">[arxiv]</a>
 * Quanyan Zhu, <strong>Zhengye Han</strong>. Performative Scenario Optimization. Published in <em>IEEE Conference on Decision and Control (CDC) 2026</em>. <a href="https://arxiv.org/abs/2603.29982" style="color: blue;">[arXiv]</a>
 * Shuai Dou, Yusen Huo, Zhilin Zhang, Yeshu Li, <strong>Zhengye Han</strong>, Kefan Su, Zongqing Lu, Chuan Yu, Jian Xu, Bo Zheng. Code Contributor to AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games. In <em>NeurIPS 2024 Datasets and Benchmarks Track</em> (<span style="color: red;">Spotlight</span>). <a href="https://github.com/alimama-tech/AuctionNet" style="color: blue;">[GitHub]</a>
