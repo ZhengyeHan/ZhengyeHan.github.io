@@ -155,7 +155,7 @@ During my undergraduate studies, I had the privilege to join the Center on Front
 My research focuses on the following topics:
 
 - **Multi-Agent Systems:** Understanding strategic interaction, coordination, and institutional mechanisms among intelligent agents, with a particular focus on diagnosing where and why multi-agent systems fail.
-- **Reinforcement Learning and Sequential Decision-Making:** Developing learning and planning methods for complex, interactive environments, with an emphasis on real-world applications such as large-scale auctions and autonomous driving.
+- **Reinforcement Learning:** Developing learning and planning methods for complex, interactive environments, with an emphasis on real-world applications such as large-scale auctions and autonomous driving.
 
 Beyond AI, I draw inspiration from economics, physics, and biology.
 
