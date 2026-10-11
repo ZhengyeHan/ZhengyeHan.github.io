@@ -157,9 +157,6 @@ My research focuses on the following topics:
 - **Multi-Agent Systems:** Understanding strategic interaction, coordination, and institutional mechanisms among intelligent agents, with a particular focus on diagnosing where and why multi-agent systems fail.
 - **Reinforcement Learning and Sequential Decision-Making:** Developing learning and planning methods for complex, interactive environments, with an emphasis on real-world applications such as large-scale auctions and autonomous driving.
 
-
-### Research Inspirations
-
 Beyond AI, I draw inspiration from economics, physics, and biology.
 
 **Economics:** I love economics because game theory and mechanism design offer a powerful lens for understanding how rules, incentives, and interactions shape the behavior of entire systems.
@@ -168,113 +165,16 @@ Beyond AI, I draw inspiration from economics, physics, and biology.
 
 
 
-<style>
-  .inspiration-gallery {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 20px;
-    margin: 24px 0 36px;
-  }
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 24px 0;">
+  <img src="/images/simulator_1.png"
+       alt="Physics-inspired multi-agent simulation"
+       style="width: 100%; border-radius: 10px;">
 
-  .inspiration-gallery .sim-card {
-    margin: 0;
-    overflow: hidden;
-    background: #fff;
-    border: 1px solid #e8ebef;
-    border-radius: 12px;
-    transition: transform 0.25s ease,
-                box-shadow 0.25s ease;
-  }
-
-  .inspiration-gallery .sim-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
-  }
-
-  .inspiration-gallery .sim-image {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 260px;
-    padding: 12px;
-    background: #f7f8fa;
-  }
-
-  .inspiration-gallery .sim-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    border-radius: 5px;
-  }
-
-  .inspiration-gallery figcaption {
-    padding: 16px 20px 18px;
-    border-top: 1px solid #eef0f2;
-  }
-
-  .inspiration-gallery .sim-label {
-    display: block;
-    font-size: 0.72rem;
-    font-weight: 600;
-    letter-spacing: 1px;
-    color: #8a929e;
-    margin-bottom: 6px;
-  }
-
-  .inspiration-gallery .sim-title {
-    display: block;
-    font-size: 1rem;
-    font-weight: 700;
-    color: #273444;
-    margin-bottom: 5px;
-  }
-
-  .inspiration-gallery .sim-desc {
-    font-size: 0.85rem;
-    color: #687586;
-    line-height: 1.5;
-  }
-
-  @media (max-width: 650px) {
-    .inspiration-gallery {
-      grid-template-columns: 1fr;
-    }
-  }
-</style>
-
-<div class="inspiration-gallery">
-
-  <figure class="sim-card">
-    <a class="sim-image" href="/images/simulator_1.png" target="_blank" rel="noopener noreferrer">
-      <img src="/images/simulator_1.png"
-           alt="Physics-inspired particle simulation"
-           loading="lazy">
-    </a>
-    <figcaption>
-      <span class="sim-label">SIMULATION 01</span>
-      <span class="sim-title">Particle Interactions</span>
-      <span class="sim-desc">
-        Exploring agent interactions through physical simulation.
-      </span>
-    </figcaption>
-  </figure>
-
-  <figure class="sim-card">
-    <a class="sim-image" href="/images/simulator_2.png" target="_blank" rel="noopener noreferrer">
-      <img src="/images/simulator_2.png"
-           alt="Emergent multi-agent collective behavior"
-           loading="lazy">
-    </a>
-    <figcaption>
-      <span class="sim-label">SIMULATION 02</span>
-      <span class="sim-title">Collective Dynamics</span>
-      <span class="sim-desc">
-        Investigating emergent behavior in multi-agent systems.
-      </span>
-    </figcaption>
-  </figure>
-
+  <img src="/images/simulator_2.png"
+       alt="Emergent collective behavior"
+       style="width: 100%; border-radius: 10px;">
 </div>
+
 
 
 
