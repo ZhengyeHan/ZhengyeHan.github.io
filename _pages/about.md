@@ -157,11 +157,14 @@ My research focuses on the following topics:
 - **Multi-Agent Systems:** Understanding strategic interaction, coordination, and institutional mechanisms among intelligent agents, with a particular focus on diagnosing where and why multi-agent systems fail.
 - **Reinforcement Learning and Sequential Decision-Making:** Developing learning and planning methods for complex, interactive environments, with an emphasis on real-world applications such as large-scale auctions and autonomous driving.
 
+
+### Research Inspirations
+
 Beyond AI, I draw inspiration from economics, physics, and biology.
 
-I love economics because game theory and mechanism design offer a powerful lens for understanding how rules, incentives, and interactions shape the behavior of entire systems.
+**Economics:** I love economics because game theory and mechanism design offer a powerful lens for understanding how rules, incentives, and interactions shape the behavior of entire systems.
 
-Physics and biology fascinate me in a different way. I often think of nature as the greatest designer, and I believe that the way the natural world works holds profound insights into how we can build intelligent collectives. I enjoy simulating the interactions and collisions of physical particles, as well as reading about how ant colonies coordinate and cooperate. To me, these are not just fascinating natural phenomena, but sources of inspiration for understanding, diagnosing, and designing multi-agent systems.
+**Physics and Biology:** I often think of nature as the greatest designer, and I believe the natural world holds profound insights into how we can build intelligent collectives. I enjoy simulating the interactions and collisions of physical particles, as well as reading about how ant colonies coordinate and cooperate. To me, these are not just fascinating natural phenomena, but sources of inspiration for understanding, diagnosing, and designing multi-agent systems.
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 24px 0;">
