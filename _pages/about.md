@@ -153,8 +153,27 @@ header:
 During my undergraduate studies, I had the privilege to join the Center on Frontiers of Computing Studies ([CFCS](https://cfcs.pku.edu.cn/)) at Peking University, working in the [daGAME](https://dagame.pku.edu.cn/) lab, where I focused on Reinforcement Learning and game theory. I am deeply grateful to Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) for providing me with invaluable research and internship opportunities during this time. I would also like to extend my sincere thanks to Dr.[Zhijian Duan](https://zjduan.github.io/) for his important guidance throughout my time in the lab. 
 
 My research focuses on the following topics:
-* Multi-Agent Systems: Understanding strategic interaction, coordination, and institutional mechanisms in systems of intelligent agents.
-* Reinforcement Learning and Sequential Decision-Making: Developing learning and planning methods for complex, interactive environments.
+
+- **Multi-Agent Systems:** Understanding strategic interaction, coordination, and institutional mechanisms among intelligent agents, with a particular focus on diagnosing where and why multi-agent systems fail.
+- **Reinforcement Learning and Sequential Decision-Making:** Developing learning and planning methods for complex, interactive environments, with an emphasis on real-world applications such as large-scale auctions and autonomous driving.
+
+Beyond AI, I draw inspiration from economics, physics, and biology.
+
+I love economics because game theory and mechanism design offer a powerful lens for understanding how rules, incentives, and interactions shape the behavior of entire systems.
+
+Physics and biology fascinate me in a different way. I often think of nature as the greatest designer, and I believe that the way the natural world works holds profound insights into how we can build intelligent collectives. I enjoy simulating the interactions and collisions of physical particles, as well as reading about how ant colonies coordinate and cooperate. To me, these are not just fascinating natural phenomena, but sources of inspiration for understanding, diagnosing, and designing multi-agent systems.
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 24px 0;">
+  <img src="/images/simulator_1.png"
+       alt="Physics-inspired multi-agent simulation"
+       style="width: 100%; border-radius: 10px;">
+
+  <img src="/images/simulator_2.png"
+       alt="Emergent collective behavior"
+       style="width: 100%; border-radius: 10px;">
+</div>
+
 
 <h3>🔥 News</h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
