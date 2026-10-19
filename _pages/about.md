@@ -327,6 +327,32 @@ For more details, please check my [LinkedIn](https://www.linkedin.com/in/zhengye
 # Project
 <div class="fullwidth-card">
   <div class="fullwidth-images">
+    <video src="/images/institutionlab_demo.mp4" poster="/images/institutionlab_poster.jpg"
+           autoplay muted loop playsinline style="width:100%;height:auto;display:block;"
+           aria-label="InstitutionLab simulator: ant-like foraging, collective sensing and the lab view">
+      <img src="/images/institutionlab_poster.jpg" alt="InstitutionLab simulator">
+    </video>
+  </div>
+  <div class="fullwidth-content">
+    <h2 class="fullwidth-title">InstitutionLab: Learning Collective Intelligence from Nature (in progress)</h2>
+    <p class="fullwidth-desc">
+      I think of nature as the greatest designer of collective intelligence. An ant colony has no central planner,
+      yet it finds food, abandons exhausted sources and recovers when the world changes, because simple agents read
+      and write shared traces in their environment. I believe the principles of such emergence are already written
+      into the natural world, and studying them is how I want to understand, diagnose and design multi-agent systems.
+    </p>
+    <p class="fullwidth-desc">
+      InstitutionLab is the simulator I am building for this. Agents combine private memory, direct messages and a
+      shared pheromone-like trail, while the rules that govern this shared state, such as how long traces last or
+      what must be verified, are explicit, versioned and replayable. My first pre-registered experiments showed that
+      agents can follow a shared trail heavily without gathering more food, so I now measure what a shared memory
+      contributes, not how often it is used.
+    </p>
+  </div>
+</div>
+
+<div class="fullwidth-card">
+  <div class="fullwidth-images">
     <img src="/images/project1.png" alt="Auto-Bidding in Large-Scale Auctions">
   </div>
   <div class="fullwidth-content">
