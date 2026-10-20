@@ -158,7 +158,11 @@ My research focuses on the following topics:
 - **Reinforcement Learning:** Developing learning and planning methods for complex, interactive environments, with an emphasis on real-world applications such as large-scale auctions and autonomous driving.
 
 
+Beyond AI, I draw inspiration from economics, physics, and biology.
 
+Economics: I love economics because game theory and mechanism design offer a powerful lens for understanding how rules, incentives, and interactions shape the behavior of entire systems.
+
+Physics and Biology: I often think of nature as the greatest designer, and I believe the natural world holds profound insights into how we can build intelligent collectives. I enjoy simulating the interactions and collisions of physical particles, as well as reading about how ant colonies coordinate and cooperate. To me, these are not just fascinating natural phenomena, but sources of inspiration for understanding, diagnosing, and designing multi-agent systems.
 
 
 
