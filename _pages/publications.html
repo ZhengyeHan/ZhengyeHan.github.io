@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Publications"
@@ -6,4 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-For a complete and up-to-date list of my publications, please visit my [**Google Scholar profile**](https://scholar.google.com/citations?user=Nk3kGj8AAAAJ&hl=en).
+{% if site.author.googlescholar %}
+  <div class="wordwrap" style="margin-bottom: 30px;">
+    You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.
+  </div>
+{% endif %}
